@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Web API Events</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Latest compiled and minified Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional Bootstrap theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <h1>Upcoming Web API Events</h1>
+        <table id="events">
+            <tr>
+                <th>Name</th>
+                <th>Date</th>
+                <th>Location</th>
+            </tr>
+        </table>
+    </div> <!-- end of the 'container-fluid' -->
+
+    <!-- adding JQuery -->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+    <!-- Latest compiled and minified Bootstrap JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+                $.ajax({
+                    url: 'https://apievents.apispark.net:443/v1/conferenceses/'
+                }).done(function(data) {
+                    data.forEach(function(event) {
+                        $('#events').append(
+                            '<tr>' 
+                                + '<td><a href="' + event.website + '">' + event.name + '</a></td>' 
+                                + '<td>' + event.start_date + '</td>'
+                                + '<td>' + event.location + '</td>'
+                            + '</tr>');
+                    });
+
+                    $("tr:odd").addClass("odd");
+                });
+        });
+    </script>
+</body>
+</html>
