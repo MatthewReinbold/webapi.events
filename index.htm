@@ -15,13 +15,22 @@
 <body>
     <div class="container-fluid">
         <h1>Upcoming Web API Events</h1>
-        <table id="events">
-            <tr>
-                <th>Name</th>
-                <th>Date</th>
-                <th>Location</th>
-            </tr>
-        </table>
+        <figcaption>Sort multiple columns by holding down the shift key and clicking a second, third (etc.) column header.</figcaption>
+        <figure>
+            <table id="eventTable" class="tablesorter">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Type</th>
+                        <th>Date</th>
+                        <th>Location</th>
+                        <th>Area</th>
+                    </tr>
+                </thead>
+                <tbody id="events">
+                </tbody>
+            </table>
+        </figure>
     </div> <!-- end of the 'container-fluid' -->
 
     <!-- adding JQuery -->
@@ -30,23 +39,52 @@
     <!-- Latest compiled and minified Bootstrap JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
+    <!-- for date display -->
+    <script src="moment.min.js"></script>
+
+    <!-- for sorting -->
+    <script src="jquery.tablesorter.min.js"></script>
+
     <script>
+        var currentDate = new Date();
+
         $(document).ready(function() {
                 $.ajax({
-                    url: 'https://apievents.apispark.net:443/v1/conferenceses/'
+                    url: 'https://apievents.apispark.net/v1/conferenceses/'
                 }).done(function(data) {
                     data.forEach(function(event) {
-                        $('#events').append(
-                            '<tr>' 
-                                + '<td><a href="' + event.website + '">' + event.name + '</a></td>' 
-                                + '<td>' + event.start_date + '</td>'
-                                + '<td>' + event.location + '</td>'
-                            + '</tr>');
+                        var arrayDate = event.start_date.split("/");
+                        var computedDate = new Date( Number(arrayDate[2]), Number(arrayDate[0]) - 1, Number(arrayDate[1]),0,0,0,0);
+
+                        // add events *only if* they come after the current date
+                        if( computedDate > currentDate ) {
+                            $('#events').append(
+                                '<tr>' 
+                                    + '<td><a href="' + event.websiteURL + '"><strong>' + event.name + '</strong></a></td>' 
+                                    + '<td>' + event.type + '</td>'
+                                    + '<td>' + moment(computedDate).format('YYYY-MM-DD') + '</td>'
+                                    + '<td>' + event.location + '</td>'
+                                    + '<td>' + event.area + '</td>'
+                                + '</tr>');
+                        }
                     });
 
+
+                    // add ability to sort the table
+                    $("#eventTable").tablesorter(); 
+
+                    // style the table
                     $("tr:odd").addClass("odd");
+
+                    // add redraw of zebra striping after table has been sorted
+                    $("#eventTable").bind("sortEnd",function() {
+                        // remove previous class
+                        $("tr").removeClass("odd");
+                        // add a touch of class back
+                        $("tr:odd").addClass("odd");
+                    });
                 });
         });
     </script>
 </body>
-</html>
+</html> 
