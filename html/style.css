@@ -1,5 +1,5 @@
 body {
-	background-image: url("travel.png");
+	background-image: url("images/travel.png");
 	background-repeat: no-repeat;
 	background-position: 0% 2%;
 	background-attachment: fixed;
@@ -13,7 +13,7 @@ figcaption {
 }
 
 table.tablesorter thead tr .header {
-	background-image: url(bg.gif);
+	background-image: url("images/bg.gif");
 	background-repeat: no-repeat;
 	background-position: center right;
 	cursor: pointer;
@@ -21,10 +21,10 @@ table.tablesorter thead tr .header {
 
 
 table.tablesorter thead tr .headerSortUp {
-	background-image: url(asc.gif);
+	background-image: url("images/asc.gif");
 }
 table.tablesorter thead tr .headerSortDown {
-	background-image: url(desc.gif);
+	background-image: url("images/desc.gif");
 }
 
 th, td {
