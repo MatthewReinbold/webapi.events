@@ -4,20 +4,31 @@
     <title>Web API Events</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Latest compiled and minified Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-
-    <!-- Optional Bootstrap theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
 
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container-fluid">
-        <h1>Upcoming Web API Events</h1>
-        <figcaption>Sort multiple columns by holding down the shift key and clicking a second, third (etc.) column header.</figcaption>
+    <nav class="red lighten-2">
+        <div class="nav-wrapper container">
+            <a href="#" class="brand-logo">
+                <i class="material-icons" style="display:inline; position: relative; top: 4px">schedule</i>
+                Web API Events
+            </a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="#">Events</a></li>
+                <li><a href="#got-an-event">Got an event?</a></li>
+                <li><a href="#more-api-info">More API info?</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
         <figure>
-            <table id="eventTable" class="tablesorter">
+            <table id="eventTable" class="tablesorter z-depth-1 striped responsive-table">
                 <thead>
                     <tr>
                         <th>Name</th>
@@ -31,28 +42,54 @@
                 </tbody>
             </table>
         </figure>
+        <figcaption class="center">
+            Sort multiple columns by holding down the shift key and clicking a second, third (etc.) column header.
+        </figcaption>
+    </div>
 
+        <div id="more-info-band" class="row brown lighten-2 white-text">
+            <div class="container">
+                <div class="col s12 m6 l6">
+        <a name="got-an-event"></a>
         <h2>Got an event?</h2>
         <p>This list is maintained by <a href="https://twitter.com/libel_vox">Matthew Reinbold</a> of <a href="http://voxpop.co/go.cfm">VoxPop.co</a>. Do you know of a conference or event that should belong on this list? <a href="mailto:webapi@voxpopdesign.com?Subject=webapi%20event">Shoot me an email - let's talk!</a></p>
+                </div>
 
-        <h2>Want event more API info?</h2>
+                <div class="col s12 m6 l6">
+        <a name="more-api-info"></a>
+        <h2>More API info?</h2>
         <p>The <a href="http://tinyletter.com/RESTAPINotes/">REST API Notes email Newsletter</a> is a regular collection of the best API news and notes from around the web. Keeping up with every single tidbit and dalliance can be time consuming. Get all the essential web API info without all the hassle. <a href="http://tinyletter.com/RESTAPINotes/archive">Check out the archive</a>.</p>
+    </div>
+            </div>
+        </div>
 
         <!-- github ribbon -->
         <a href="https://github.com/MatthewReinbold/webapi.events"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
-    </div> <!-- end of the 'container-fluid' -->
+
+    <footer class="page-footer">
+    <div class="footer-copyright white-text">
+      <div class="container">
+        Made with &hearts; using <a class="blue-text text-lighten-3" href="http://materializecss.com">Materialize</a>,
+        <a href="https://jquery.com/">jQuery</a>,
+        <a href="http://restlet.com/technical-resources/apispark/tutorials/turn-spreadsheet-to-api">Google Sheets</a>,
+        <a href="http://restlet.com/technical-resources/apispark/tutorials/github">Github</a>
+        and <a href="http://restlet.com/products/apispark">APISpark</a>
+      </div>
+    </div>
+    </footer>
 
     <!-- adding JQuery -->
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-
-    <!-- Latest compiled and minified Bootstrap JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
     <!-- for date display -->
     <script src="js/moment.min.js"></script>
 
     <!-- for sorting -->
     <script src="js/jquery.tablesorter.min.js"></script>
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
+
 
     <script>
         var currentDate = new Date();
@@ -78,20 +115,8 @@
                         }
                     });
 
-
                     // add ability to sort the table
                     $("#eventTable").tablesorter(); 
-
-                    // style the table
-                    $("tr:odd").addClass("odd");
-
-                    // add redraw of zebra striping after table has been sorted
-                    $("#eventTable").bind("sortEnd",function() {
-                        // remove previous class
-                        $("tr").removeClass("odd");
-                        // add a touch of class back
-                        $("tr:odd").addClass("odd");
-                    });
                 });
         });
     </script>
@@ -104,7 +129,6 @@
 
       ga('create', 'UA-6013696-11', 'auto');
       ga('send', 'pageview');
-
     </script>    
 </body>
 </html> 
