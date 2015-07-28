@@ -106,7 +106,7 @@
                         if( computedDate > currentDate ) {
                             $('#events').append(
                                 '<tr>' 
-                                    + '<td><a href="' + event.websiteURL + '"><strong>' + event.name + '</strong></a></td>' 
+                                    + '<td><strong><a href="' + event.websiteURL + '" target="_blank">' + event.name + '</a></strong></td>' 
                                     + '<td>' + event.type + '</td>'
                                     + '<td>' + moment(computedDate).format('YYYY-MM-DD') + '</td>'
                                     + '<td>' + event.location + '</td>'
