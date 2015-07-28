@@ -1,24 +1,16 @@
-body {
-	background-image: url("images/travel.png");
-	background-repeat: no-repeat;
-	background-position: 0% 2%;
-	background-attachment: fixed;
-}
-
 figcaption {
 	font-style: italic;
 	font-size: 0.8em;
 	margin-top:0.5em;
-	margin-bottom:0.5em;
+	margin-bottom:1em;
+    color: #a1887f;
 }
 
 table.tablesorter thead tr .header {
-	background-image: url("images/bg.gif");
 	background-repeat: no-repeat;
 	background-position: center right;
 	cursor: pointer;
 }
-
 
 table.tablesorter thead tr .headerSortUp {
 	background-image: url("images/asc.gif");
@@ -31,6 +23,19 @@ th, td {
 	padding: 0.5em;
 }
 
-.odd {
-   background: #f0f0f0;
+#more-info-band a, footer a {
+    color: #81d4fa;
+}
+
+#eventTable tr:nth-child(even) {
+    background-color: #efebe9;
+}
+
+#eventTable tr:nth-child(odd) {
+    background-color: white;
+}
+
+#eventTable th {
+    color: white;
+    background-color: #a1887f;
 }
