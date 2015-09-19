@@ -96,7 +96,7 @@
 
         $(document).ready(function() {
                 $.ajax({
-                    url: 'https://apievents.apispark.net/v3/conferenceses/$size=100'
+                    url: 'https://apievents.apispark.net/v3/conferenceses/?$size=100'
                 }).done(function(data) {
                     data.forEach(function(event) {
                         var arrayDate = event.start_date.split("/");
