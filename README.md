@@ -8,4 +8,4 @@
 [Matthew Reinbold](http://voxpop.co) is responsible for maintaining the [webapi.events](http://webapi.events) site, the event API that powers it, and the initial seeding of this repository. He also writes a regular email newsletter about noteworthy API thought at [REST API Notes](http://tinyletter.com/RESTAPINotes/). 
 
 ## I've got an event! Who do I contact?
-Send any new items or event update suggestions to **'create *AT* voxpopdesign *DOT* com'**. Include the URL **"webapi.events"** in the subject line.
+Send any new items or event update suggestions to **'matthew@voxpop.co'**. Please include the URL **"webapi.events"** in the subject line.
