@@ -52,7 +52,7 @@
                 <div class="col s12 m6 l6">
         <a name="got-an-event"></a>
         <h2>Got an event?</h2>
-        <p>This list is maintained by <a href="https://twitter.com/libel_vox" target="_blank">Matthew Reinbold</a> of <a href="http://voxpop.co/go.cfm" target="_blank">VoxPop.co</a>. Do you know of a conference or event that should belong on this list? <a href="mailto:webapi@voxpopdesign.com?Subject=webapi%20event">Shoot me an email - let's talk!</a></p>
+        <p>This list is maintained by <a href="https://twitter.com/libel_vox" target="_blank">Matthew Reinbold</a> of <a href="https://matthewreinbold.com" target="_blank">MatthewReinbold.com</a>. Do you know of a conference or event that should belong on this list? <a href="mailto:hello@matthewreinbold.com?Subject=webapi%20event">Shoot me an email - let's talk!</a></p>
                 </div>
 
                 <div class="col s12 m6 l6">
@@ -62,9 +62,6 @@
     </div>
             </div>
         </div>
-
-        <!-- github ribbon -->
-        <a href="https://github.com/MatthewReinbold/webapi.events"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
 
     <footer class="page-footer">
     <div class="footer-copyright white-text">
@@ -96,7 +93,7 @@
 
         $(document).ready(function() {
                 $.ajax({
-                    url: 'https://apievents.apispark.net/v3/conferenceses/?$size=200'
+                    url: 'https://apievents.apispark.net/v3/conferenceses/?$size=300'
                 }).done(function(data) {
                     data.forEach(function(event) {
                         var arrayDate = event.start_date.split("/");
