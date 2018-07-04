@@ -93,8 +93,9 @@
 
         $(document).ready(function() {
                 $.ajax({
-                    url: 'https://apievents.apispark.net/v3/conferenceses/?$size=300'
+                    url: 'https://apievents.apispark.net/v3/conferenceses/?$size=50'
                 }).done(function(data) {
+		data.reverse(); 
                     data.forEach(function(event) {
                         var arrayDate = event.start_date.split("/");
                         var computedDate = new Date( Number(arrayDate[2]), Number(arrayDate[0]) - 1, Number(arrayDate[1]),0,0,0,0);
