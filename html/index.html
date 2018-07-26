@@ -1,0 +1,69 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="tex/css" href="style.css" />
+	</head>
+	<body>
+		<header>
+			<h1>Web API Events</h1>
+		</header>
+		<!-- keep it simple; while the original thought was that it WBN to sort
+			by geographical region, the reality is that there aren't THAT many
+			events at any given time. Far better to reduce the displayed info,
+			and allow for easier scanning -->
+		<table id="eventTable">
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Date</th>
+					<th>Location</th>
+				</tr>
+			</thead>
+			<tbody id="events">
+			</tbody>
+		</table>
+		<footer>
+			<div id="callToAction">
+				<h2>Got an event?</h2>
+        		<p>This list is maintained by <a href="https://twitter.com/libel_vox" target="_blank">Matthew</a> of <a href="https://matthewreinbold.com" target="_blank">MatthewReinbold.com</a>. Do you know of a conference or event that should belong on this list? <a href="mailto:hello@matthewreinbold.com?Subject=webapi%20event">Shoot me an email - let's talk!</a></p>
+			</div>
+			<div id="moreInfoAboutAPIs">
+				<h2>Keep Up with APIs</h2>
+			    <p>The <a href="http://tinyletter.com/RESTAPINotes/" target="_blank" >REST API Notes email Newsletter</a> is a regular collection of the best API news and notes from around the web. Keeping up with every single tidbit and dalliance can be time consuming. Get all the essential web API info without all the hassle. <a href="http://tinyletter.com/RESTAPINotes/archive" target="_blank">Check out the archive</a>.</p>				
+			</div>
+			<div id="helpSupportTheseTools">
+				<h2>Help Support this Project</h2>
+				<p>A special thanks to my Patreon sponsors for their support of WebAPI.events (this site), <a href="http://tinyletter.com/RESTAPINotes/" target="_blank" >REST API Notes</a>, and more. They keep the caffeine ready for those early mornings and late nights working on this stuff.</p>
+				<p>If you'd like to show your support, <a href="https://www.patreon.com/matthewreinbold" target="_blank">head over to my Patreon</a>. And thanks!</p>
+			</div>
+		</footer>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script>
+			  $(document).ready(
+			    function() {
+			     $.getJSON( '/events.json', 
+			      function(data) {
+        		  	var currentDate = new Date();
+			        
+			        // put in chronological order, rather than reverse chronological as the data is stored
+			        data.reverse();
+
+			        for( var i = 0; i < data.length; i++) {
+                        var arrayDate = data[i].end_date.split("/");
+                        var computedDate = new Date( Number(arrayDate[2]), Number(arrayDate[0]) - 1, Number(arrayDate[1]),0,0,0,0);
+
+						// add events *only if* they come after the current date
+			        	if( computedDate > currentDate ) {
+				        	$('#events').append(
+				        		'<tr><td>' + data[i].name + 
+				        		'</td><td>' + data[i].start_date +
+				        		'</td><td>' + data[i].location +
+				        		'</td></tr>');
+			        	} // end of the if statement checking date
+			        } // end of the for loop
+			      } //end of the function for the data return
+			    ); // end of the getJSON jQuery func
+			   } // end of the document ready function definition
+			  ); // end of the document ready 
+			</script>
+	</body>
+</html>
