@@ -96,6 +96,18 @@
         "Timestamp": "4/19/2018"
     },
     {
+        "name": "API Conference",
+        "websiteURL": "https://apiconference.net/",
+        "twitterURL": null,
+        "start_date": "9/24/2018",
+        "end_date": "9/26/2018",
+        "location": "Berlin, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": null,
+        "Timestamp": "7/27/2018"
+    },
+    {
         "name": "APIDays Zurich",
         "websiteURL": "http://www.apidays.io/events/zurich-2018",
         "twitterURL": null,
@@ -131,6 +143,30 @@
         "Description": "Imagine the Integrated API-Driven Company",
         "Timestamp": "12/20/2017"
     },
+    {
+        "name": "OpenAPI Workshop",
+        "websiteURL": "https://ossna18.sched.com/event/FiC9",
+        "twitterURL": null,
+        "start_date": "8/28/2018",
+        "end_date": "8/28/2018",
+        "location": "Vancouver, BC",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "Imagine the Integrated API-Driven Company",
+        "Timestamp": "7/27/2018"
+    },
+    {
+        "name": "API Surgery",
+        "websiteURL": "https://api-surgery-aug.peatix.com/view",
+        "twitterURL": null,
+        "start_date": "08/02/2018",
+        "end_date": "08/02/2018",
+        "location": "Singapore, Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "Description": "API Surgery",
+        "Timestamp": "7/27/2018"
+    },    
     {
         "name": "APIDays.io San Francisco",
         "websiteURL": "https://www.apidayssf.com/",
