@@ -108,6 +108,18 @@
         "Timestamp": "7/27/2018"
     },
     {
+        "name": "Vancouver Microservices Meetup",
+        "websiteURL": "https://www.meetup.com/Vancouver-Microservices-Meetup/events/252519063/",
+        "twitterURL": "",
+        "start_date": "9/20/2018",
+        "end_date": "9/20/2018",
+        "location": "Vancouver, BC",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "back-to-school",
+        "Timestamp": "8/13/2018"
+    }, 
+    {
         "name": "APIDays Zurich",
         "websiteURL": "http://www.apidays.io/events/zurich-2018",
         "twitterURL": "",
@@ -119,6 +131,18 @@
         "Description": "",
         "Timestamp": "7/3/2018"
     },
+    {
+        "name": "London API Meetup",
+        "websiteURL": "https://www.meetup.com/London-API-Group/events/252149820/",
+        "twitterURL": "",
+        "start_date": "9/19/2018",
+        "end_date": "9/19/2018",
+        "location": "London, UK",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "API Security",
+        "Timestamp": "8/13/2018"
+    }, 
     {
         "name": "Kong Summit '18",
         "websiteURL": "https://konghq.com/kong-summit/",
@@ -144,6 +168,54 @@
         "Timestamp": "12/20/2017"
     },
     {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/253421719/",
+        "twitterURL": "",
+        "start_date": "9/5/2018",
+        "end_date": "9/5/2018",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "September",
+        "Timestamp": "8/13/2018"
+    }, 
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/247659943/",
+        "twitterURL": "",
+        "start_date": "9/4/2018",
+        "end_date": "9/4/2018",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "September",
+        "Timestamp": "8/13/2018"
+    },   
+    {
+        "name": "APIs and IPAs",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/253534100/",
+        "twitterURL": "",
+        "start_date": "8/30/2018",
+        "end_date": "8/30/2018",
+        "location": "Seattle, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "August",
+        "Timestamp": "8/13/2018"
+    },   
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/253328784/",
+        "twitterURL": "",
+        "start_date": "8/30/2018",
+        "end_date": "8/30/2018",
+        "location": "Singapore, Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "Description": "Building Cloud-Native APIs and Microservices",
+        "Timestamp": "8/13/2018"
+    },    
+    {
         "name": "OpenAPI Workshop",
         "websiteURL": "https://ossna18.sched.com/event/FiC9",
         "twitterURL": "",
@@ -155,6 +227,30 @@
         "Description": "",
         "Timestamp": "7/27/2018"
     },
+    {
+        "name": "London API Meetup",
+        "websiteURL": "https://www.meetup.com/London-API-Group/events/252149575/",
+        "twitterURL": "",
+        "start_date": "8/21/2018",
+        "end_date": "8/21/2018",
+        "location": "London, UK",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "Microservices in .NET",
+        "Timestamp": "8/13/2018"
+    },    
+    {
+        "name": "Microservices Meetup Berlin",
+        "websiteURL": "https://www.meetup.com/Microservices-Meetup-Berlin/events/252835154/",
+        "twitterURL": "",
+        "start_date": "8/21/2018",
+        "end_date": "8/21/2018",
+        "location": "Berlin, Germany",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "Chaos Engineering",
+        "Timestamp": "8/13/2018"
+    },    
     {
         "name": "API Surgery",
         "websiteURL": "https://api-surgery-aug.peatix.com/view",
