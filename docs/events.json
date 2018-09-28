@@ -36,6 +36,18 @@
         "Timestamp": "5/30/2018"
     },
     {
+        "name": "Seattle API Meetup",
+        "websiteURL": "https://www.meetup.com/Seattle-API-Meetup/events/255006727/",
+        "twitterURL": "",
+        "start_date": "10/25/2018",
+        "end_date": "10/25/2018",
+        "location": "Seattle, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "API Management on the Modern Architectural Stack",
+        "Timestamp": "09/28/2018"
+    },
+    {
         "name": "Nordic APIs Platform Summit",
         "websiteURL": "https://nordicapis.com/2018-platform-summit-nordic-apis/",
         "twitterURL": "",
@@ -46,6 +58,30 @@
         "area": "Europe",
         "Description": "",
         "Timestamp": "12/19/2017"
+    },
+    {
+        "name": "London API",
+        "websiteURL": "https://www.meetup.com/London-API-Group/events/252973495/",
+        "twitterURL": "",
+        "start_date": "10/17/2018",
+        "end_date": "10/17/2018",
+        "location": "London",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "Event Sourcing, Monolith to Distributed",
+        "Timestamp": "09/28/2018"
+    },
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/254840611/",
+        "twitterURL": "",
+        "start_date": "10/16/2018",
+        "end_date": "10/16/2018",
+        "location": "Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "Description": "Integrating with DBS Open Banking APIs",
+        "Timestamp": "09/28/2018"
     },
     {
         "name": "APIDays Amsterdam",
@@ -60,6 +96,66 @@
         "Timestamp": "7/3/2018"
     },
     {
+        "name": "API Mixtape",
+        "websiteURL": "http://apimixtape.com/",
+        "twitterURL": "",
+        "start_date": "10/10/2018",
+        "end_date": "10/10/2018",
+        "location": "San Francisco, CA",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "9/27/2018"
+    },    
+    {
+        "name": "APIs and IPAs",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/254623048/",
+        "twitterURL": "",
+        "start_date": "10/10/2018",
+        "end_date": "10/10/2018",
+        "location": "Seattle, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "Documentation",
+        "Timestamp": "09/28/2018"
+    },
+    {
+        "name": "Paris API",
+        "websiteURL": "https://www.meetup.com/ParisAPI/events/254878069/",
+        "twitterURL": "",
+        "start_date": "10/10/2018",
+        "end_date": "10/10/2018",
+        "location": "Paris, France",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "REST and GraphQL",
+        "Timestamp": "09/28/2018"
+    },
+    {
+        "name": "TIBCO-Bay-Area-User-Group",
+        "websiteURL": "https://www.meetup.com/TIBCO-Bay-Area-User-Group/events/254589503/",
+        "twitterURL": "",
+        "start_date": "10/3/2018",
+        "end_date": "10/3/2018",
+        "location": "San Francisco, CA",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "DevOps and microservices",
+        "Timestamp": "09/28/2018"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/254185536/",
+        "twitterURL": "",
+        "start_date": "10/3/2018",
+        "end_date": "10/3/2018",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "09/28/2018"
+    },
+    {
         "name": "API City Conference",
         "websiteURL": "http://apicity.io",
         "twitterURL": "",
@@ -70,6 +166,30 @@
         "area": "North America",
         "Description": "",
         "Timestamp": "5/3/2018"
+    },
+     {
+        "name": "APIOps-Tampere",
+        "websiteURL": "https://www.meetup.com/APIOps-Tampere/events/254370057/",
+        "twitterURL": "",
+        "start_date": "10/2/2018",
+        "end_date": "10/2/2018",
+        "location": "Tampere, Finland",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "GraphQL for the rest of us",
+        "Timestamp": "09/28/2018"
+    },
+    {
+        "name": "DC API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/247659968/",
+        "twitterURL": "",
+        "start_date": "10/2/2018",
+        "end_date": "10/2/2018",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "09/28/2018"
     },
     {
         "name": "REST Fest 2018",
