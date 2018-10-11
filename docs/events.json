@@ -12,6 +12,18 @@
         "Timestamp": "7/3/2018"
     },
     {
+        "name": "API Summit",
+        "websiteURL": "https://api-summit.de/",
+        "twitterURL": "",
+        "start_date": "12/03/2018",
+        "end_date": "12/05/2018",
+        "location": "Berlin, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "10/09/2018"
+    },
+    {
         "name": "API the Docs, London 2018",
         "websiteURL": "https://apithedocs.org/london2018",
         "twitterURL": "",
