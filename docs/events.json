@@ -12,6 +12,42 @@
         "Timestamp": "7/3/2018"
     },
     {
+        "name": "DC API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/255663793/",
+        "twitterURL": "",
+        "start_date": "12/04/2018",
+        "end_date": "12/04/2018",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "Nginx, Fig Leaf Software",
+        "Timestamp": "10/29/2018"
+    },
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/255573947/",
+        "twitterURL": "",
+        "start_date": "11/15/2018",
+        "end_date": "11/15/2018",
+        "location": "Singapore, Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "Description": "Enabling Seamless Payments with the Stripe API",
+        "Timestamp": "10/29/2018"
+    },
+    {
+        "name": "Seattle API Meetup",
+        "websiteURL": "https://www.meetup.com/Seattle-API-Meetup/events/255807301/",
+        "twitterURL": "",
+        "start_date": "11/13/2018",
+        "end_date": "11/13/2018",
+        "location": "Seattle, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "Managing Chaos: API Management on the Modern Architectural Stack",
+        "Timestamp": "10/29/2018"
+    },
+    {
         "name": "API the Docs, London 2018",
         "websiteURL": "https://apithedocs.org/london2018",
         "twitterURL": "",
@@ -22,6 +58,30 @@
         "area": "Europe",
         "Description": "",
         "Timestamp": "7/18/2018"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/254185541/",
+        "twitterURL": "",
+        "start_date": "11/07/2018",
+        "end_date": "11/07/2018",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "10/29/2018"
+    },
+    {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/255646561/",
+        "twitterURL": "",
+        "start_date": "10/31/2018",
+        "end_date": "10/31/2018",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "API Managers and Developer Centers",
+        "Timestamp": "10/29/2018"
     },
     {
         "name": "SmartBear Connect 2018",
