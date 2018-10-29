@@ -48,6 +48,18 @@
         "Timestamp": "10/29/2018"
     },
     {
+        "name": "API Surgery Melbourne",
+        "websiteURL": "https://www.eventbrite.sg/e/free-workshop-a-90-minute-introduction-to-api-management-tickets-51387741117",
+        "twitterURL": "",
+        "start_date": "11/13/2018",
+        "end_date": "11/13/2018",
+        "location": "Melbourne, Australia",
+        "type": "Meetup",
+        "area": "Oceania (Australia, New Zealand, Fiji, etc.)",
+        "Description": "Managing Chaos: API Management on the Modern Architectural Stack",
+        "Timestamp": "10/29/2018"
+    },
+    {
         "name": "Seattle API Meetup",
         "websiteURL": "https://www.meetup.com/Seattle-API-Meetup/events/255807301/",
         "twitterURL": "",
@@ -81,6 +93,18 @@
         "type": "Meetup",
         "area": "North America",
         "Description": "",
+        "Timestamp": "10/29/2018"
+    },
+    {
+        "name": "API Surgery Bangkok",
+        "websiteURL": "https://www.eventbrite.sg/e/free-workshop-a-90-minute-introduction-to-api-management-tickets-51132680223",
+        "twitterURL": "",
+        "start_date": "11/01/2018",
+        "end_date": "11/01/2018",
+        "location": "Bangkok, Thailand",
+        "type": "Meetup",
+        "area": "Asia",
+        "Description": "Intro to API Management",
         "Timestamp": "10/29/2018"
     },
     {
