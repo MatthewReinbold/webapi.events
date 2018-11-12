@@ -1,5 +1,17 @@
 [
     {
+        "name": "2019 University API Winter Workshop",
+        "websiteURL": "https://www.eventbrite.com/e/2019-university-api-winter-workshop-tickets-46157823292",
+        "twitterURL": "",
+        "start_date": "01/29/2019",
+        "end_date": "01/29/2019",
+        "location": "Provo, UT",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "5th Annual BYU API Winter Workshop",
+        "Timestamp": "11/11/2018"
+    },
+    {
         "name": "API Days Paris",
         "websiteURL": "http://www.apidays.io/events/paris-2018",
         "twitterURL": "",
