@@ -1,5 +1,17 @@
 [
     {
+        "name": "2019 Austin API Summit",
+        "websiteURL": "https://nordicapis.com/events/austin-api-summit-2019/",
+        "twitterURL": "",
+        "start_date": "05/13/2019",
+        "end_date": "05/15/2019",
+        "location": "Austin, TX",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "propelling API practice into the future",
+        "Timestamp": "11/15/2018"
+    },
+    {
         "name": "2019 University API Winter Workshop",
         "websiteURL": "https://www.eventbrite.com/e/2019-university-api-winter-workshop-tickets-46157823292",
         "twitterURL": "",
@@ -23,6 +35,18 @@
         "Description": "the new stack for the programmable society",
         "Timestamp": "7/3/2018"
     },
+    {
+        "name": "Microservices, Containers, APIs & Integration Day",
+        "websiteURL": "https://www.redhat.com/en/events/Integration_Seattle",
+        "twitterURL": "",
+        "start_date": "12/04/2018",
+        "end_date": "12/04/2018",
+        "location": "Seattle, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "hear from Red Hat and Levvel open source experts who will discuss new development technologies and introduce new kinds of integration solutions.",
+        "Timestamp": "11/15/2018"
+    },    
     {
         "name": "DC API User Group",
         "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/255663793/",
