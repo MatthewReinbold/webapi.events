@@ -1,78 +1,256 @@
-<html>
-	<head>
-		<link rel="stylesheet" type="text/css" href="style.css" />
-		<title>Worldwide REST and Web API Events - Conferences, Meetups, and More</title>
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Spectral" rel="stylesheet">
-	</head>
-	<body>
-		<header class="invert">
-			<div>
-				<h1>Web API Events</h1>
-			</div>
-		</header>
-		<!-- keep it simple; while the original thought was that it WBN to sort
-			by geographical region, the reality is that there aren't THAT many
-			events at any given time. Far better to reduce the displayed info,
-			and allow for easier scanning -->
-		<section class="info">
-			<table id="eventTable">
-				<thead>
-					<tr>
-						<th>Name</th>
-						<th>Date</th>
-						<th>Location</th>
-					</tr>
-				</thead>
-				<tbody id="events">
-				</tbody>
-			</table>
-		</section>
-		<footer class="invert">
-			<div id="callToAction">
-				<h2>Submit an Event</h2>
-        		<p>This list is maintained by <a href="https://twitter.com/libel_vox" target="_blank">Matthew</a> of <a href="https://matthewreinbold.com" target="_blank">MatthewReinbold.com</a>. Do you know of a conference or event that should belong on this list? <a href="mailto:hello@matthewreinbold.com?Subject=webapi%20event">Shoot me an email - let's talk!</a></p>
-			</div>
-			<div id="moreInfoAboutAPIs">
-				<h2>Get Must Have, Essential API Info</h2>
-			    <p>The <a href="http://tinyletter.com/RESTAPINotes/" target="_blank" >REST API Notes Email Newsletter</a> is a regular collection of the best API news and notes from around the web. Keeping up with every single tidbit and dalliance can be time consuming. Get all the essential web API info without all the hassle. <a href="http://tinyletter.com/RESTAPINotes/archive" target="_blank">Check out the archive</a>.</p>				
-			</div>
-			<div id="helpSupportTheseTools">
-				<h2>Help Support this Project</h2>
-				<p>A special thanks to my Patreon sponsors for their support of WebAPI.events (this site), <a href="http://tinyletter.com/RESTAPINotes/" target="_blank" >REST API Notes</a>, and more. They keep the caffeine ready for those early mornings and late nights working on this stuff.</p>
-				<p>If you'd like to show your support, <a href="https://www.patreon.com/matthewreinbold" target="_blank">head over to my Patreon</a>. And thanks!</p>
-			</div>
-		</footer>
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-			<script>
-			  $(document).ready(
-			    function() {
-			     $.getJSON( 'events.json', 
-			      function(data) {
-        		  	var currentDate = new Date();
-			        
-			        // put in chronological order, rather than reverse chronological as the data is stored
-			        data.reverse();
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Matthew Reinbold's Ego">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo2.png" type="image/x-icon">
+  <meta name="description" content="">
+  <title>WebAPI.events Home</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/datatables/data-tables.bootstrap4.min.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+</head>
+<body>
+  <section class="menu cid-qTkzRZLJNu" once="menu" id="menu1-0">
 
-			        for( var i = 0; i < data.length; i++) {
-                        var arrayDate = data[i].end_date.split("/");
-                        var computedDate = new Date( Number(arrayDate[2]), Number(arrayDate[0]) - 1, Number(arrayDate[1]),0,0,0,0);
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="https://webapi.events">
+                         <img src="assets/images/webapi-logo.png" alt="WebApi.events Logo" style="height: 3.8rem;">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="https://webapi.events">WebAPI.events</a></span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white display-4" href="#submit"><span class="mbri-paper-plane mbr-iconfont mbr-iconfont-btn"></span>
+                        Submit an Event</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="#read"><span class="mbri-preview mbr-iconfont mbr-iconfont-btn"></span>
+                        Read More</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="#support"><span class="mbri-gift mbr-iconfont mbr-iconfont-btn"></span>Support</a></li></ul>
+            
+        </div>
+    </nav>
+</section>
 
-						// add events *only if* they come after the current date
-			        	if( computedDate > currentDate ) {
-				        	$('#events').append(
-				        		'<tr><td title="' + data[i].Description + 
-				        		'"><a href="' + data[i].websiteURL +
-				        		'" target="_blank">' + data[i].name + 
-				        		'</a></td><td>' + data[i].start_date +
-				        		'</td><td>' + data[i].location +
-				        		'</td></tr>');
-			        	} // end of the if statement checking date
-			        } // end of the for loop
-			      } //end of the function for the data return
-			    ); // end of the getJSON jQuery func
-			   } // end of the document ready function definition
-			  ); // end of the document ready 
-			</script>
-	</body>
+<section class="section-table cid-r99EfIeZxA" id="table1-9" data-bg-video="https://www.youtube.com/watch?v=a3ENEW-IYRk">
+
+  
+  <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(255, 255, 255);">
+  </div>
+  <div class="container container-table">
+      <h2 class="mbr-section-title mbr-fonts-style align-center pb-3 display-2">
+          The Latest Upcoming, In-Person API Events</h2>
+      <h3 class="mbr-section-subtitle mbr-fonts-style align-center pb-5 mbr-light display-5">
+            Events are culled from Twitter hearsay, select Meetup.com groups, and/or directly from kind individuals looking to grow their community. Have something not listed here? Submit an event!</h3>
+
+    <!-- new table -->          
+    <div class="table-wrapper">
+        <div class="container scroll">
+
+          <section class="info">
+            <table id="eventTable" class="table" cellspacing="0">
+              <thead>
+                <tr class="table-heads">
+                  <th class="head-item mbr-fonts-style display-7">Name</th>
+                  <th class="head-item mbr-fonts-style display-7">Date</th>
+                  <th class="head-item mbr-fonts-style display-7">Location</th>
+                </tr>
+              </thead>
+              <tbody id="events">
+              </tbody>
+            </table>
+          </section>
+        </div> <!-- end of container scroll -->
+    </div> <!-- end of table wrap -->
+
+        <div class="container table-info-container">
+          <div class="row info">
+            <div class="col-md-6">
+              <div class="dataTables_info mbr-fonts-style display-7">
+                <span class="infoBefore">Showing</span>
+                <span class="inactive infoRows"></span>
+                <span class="infoAfter">entries</span>
+                <span class="infoFilteredBefore">(filtered from</span>
+                <span class="inactive infoRows"></span>
+                <span class="infoFilteredAfter"> total entries)</span>
+              </div>
+            </div>
+            <div class="col-md-6"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+
+<section class="features10 cid-r99JBP8itL" id="features10-a">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="media mb-3">
+                    <div class="card-img align-self-center">
+                        <span class="mbri-paper-plane mbr-iconfont"></span>
+                    </div>
+                    <h4 class="card-title media-body py-3 mbr-fonts-style display-7">
+                        <a name="submit">Submit an Event</a>
+                    </h4>
+                </div>
+                <div class="card-box">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                       Adding an in-person meetup, conference, or event to this list is easy! If you know of an API community happening that should be listed, shoot me an email. <a href="mailto:hello@matthewreinbold.com?subject=webapi.events">Let's chat!</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="media mb-3">
+                    <div class="card-img align-self-center">
+                        <span class="mbri-preview mbr-iconfont"></span>
+                    </div>
+                    <h4 class="card-title media-body py-3 mbr-fonts-style display-7">
+                        <a name="read">Read More</a>
+                    </h4>
+                </div>
+                <div class="card-box">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                       Keeping up with every single API tidbit and microservice dalliance that pops up on the web can be time consuming. <a href="https://tinyletter.com/RESTAPINotes/archive">REST API Notes</a>, an email newsletter from the curator of webAPI.events, is a semi-regular digest of only the must-have insights. Are you a busy service practitioners?  <a href="https://tinyletter.com/RESTAPINotes/archive">Check out the archive!</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="media mb-3">
+                    <div class="card-img align-self-center">
+                        <span class="mbri-gift mbr-iconfont"></span>
+                    </div>
+                    <h4 class="card-title media-body py-3 mbr-fonts-style display-7">
+                        <a name="support">Support</a>
+                    </h4>
+                </div>
+                <div class="card-box">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                       WebAPI.events is a labor of love for the API community by Matthew Reinbold. If you'd like to chip in a little something as way of thanks for the late nights and early mornings that make this site possible, check out <a href="https://www.patreon.com/matthewreinbold">the Patreon page</a>.
+                    </p>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="cid-qTkAaeaxX5" id="footer1-2">
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="https://webapi.events/">
+                        <img src="assets/images/webapi-logo.png" alt="WebAPI Logo">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Support</h5>
+                <p class="mbr-text"><a href="https://www.patreon.com/bePatron?u=11954321" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Contact
+                </h5>
+                <p class="mbr-text">
+                    Email: <a href="mailto:hello@matthewreinbold.com?subject=webapi.events" >hello@matthewreinbold.com</a></p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Links
+                </h5>
+                <p class="mbr-text">
+                    <a class="text-primary" href="https://matthewreinbold.com/">MatthewReinbold.com</a> (Blog)
+                    <br><a class="text-primary" href="https://tinyletter.com/RESTAPINotes/archive">RestAPINotes</a> (Email Newsletter)
+                    <br><a class="text-primary" href="https://www.patreon.com/matthewreinbold">Patreon</a> (Support)
+                    <br><a class="text-primary" href="https://twitter.com/libel_vox">libel_vox</a> (Matthew's Twitter)
+                </p>
+            </div>
+        </div>
+        <div class="footer-lower ">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white ">
+                <div class="col-sm-12 copyright " >
+                    <p class=" mbr-fonts-style" style="text-align:center;">
+                        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
+  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/datatables/jquery.data-tables.min.js"></script>
+  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  <script>
+  $(document).ready(
+    function() {
+     $.getJSON( 'events.json', 
+      function(data) {
+          var currentDate = new Date();
+        
+        // put in chronological order, rather than reverse chronological as the data is stored
+        data.reverse();
+
+        for( var i = 0; i < data.length; i++) {
+                  var arrayDate = data[i].end_date.split("/");
+                  var computedDate = new Date( Number(arrayDate[2]), Number(arrayDate[0]) - 1, Number(arrayDate[1]),0,0,0,0);
+
+      // add events *only if* they come after the current date
+          if( computedDate > currentDate ) {
+            $('#events').append(
+              '<tr><td title="' + data[i].Description + 
+              '"><a href="' + data[i].websiteURL +
+              '" target="_blank">' + data[i].name + 
+              '</a></td><td>' + data[i].start_date +
+              '</td><td>' + data[i].location +
+              '</td></tr>');
+          } // end of the if statement checking date
+        } // end of the for loop
+      } //end of the function for the data return
+    ); // end of the getJSON jQuery func
+   } // end of the document ready function definition
+  ); // end of the document ready 
+</script>
+
+</body>
 </html>
