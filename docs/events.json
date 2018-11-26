@@ -12,6 +12,18 @@
         "Timestamp": "11/15/2018"
     },
     {
+        "name": "Misson API",
+        "websiteURL": "https://2019.missionapi.io/",
+        "twitterURL": "",
+        "start_date": "03/06/2019",
+        "end_date": "03/06/2019",
+        "location": "London, GB",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "the business and strategy of APIs",
+        "Timestamp": "11/27/2018"
+    },
+    {
         "name": "2019 University API Winter Workshop",
         "websiteURL": "https://www.eventbrite.com/e/2019-university-api-winter-workshop-tickets-46157823292",
         "twitterURL": "",
