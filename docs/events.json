@@ -12,6 +12,18 @@
         "Timestamp": "11/15/2018"
     },
     {
+        "name": "The Web Conference",
+        "websiteURL": "https://www2019.thewebconf.org",
+        "twitterURL": "",
+        "start_date": "05/13/2019",
+        "end_date": "05/17/2019",
+        "location": "San Francisco, CA",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "includes track on hypermedia clients",
+        "Timestamp": "12/10/2018"
+    },
+    {
         "name": "Misson API",
         "websiteURL": "https://2019.missionapi.io/",
         "twitterURL": "",
