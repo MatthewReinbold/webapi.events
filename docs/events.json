@@ -24,6 +24,18 @@
         "Timestamp": "12/10/2018"
     },
     {
+        "name": "microXchg",
+        "websiteURL": "http://microxchg.io/2019/index.html",
+        "twitterURL": "",
+        "start_date": "04/01/2019",
+        "end_date": "04/01/2019",
+        "location": "Berlin, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "focused on microservices and serverless technologies",
+        "Timestamp": "12/10/2018"
+    },
+    {
         "name": "Misson API",
         "websiteURL": "https://2019.missionapi.io/",
         "twitterURL": "",
