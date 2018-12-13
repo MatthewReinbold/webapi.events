@@ -12,6 +12,18 @@
         "Timestamp": "12/13/2018"
     },
     {
+        "name": "Gluecon 2019",
+        "websiteURL": "http://gluecon.com/",
+        "twitterURL": "",
+        "start_date": "05/22/2019",
+        "end_date": "05/23/2019",
+        "location": "Broomfield, CO",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "APIs, Devops, microservices",
+        "Timestamp": "12/13/2018"
+    },
+    {
         "name": "2019 Austin API Summit",
         "websiteURL": "https://nordicapis.com/events/austin-api-summit-2019/",
         "twitterURL": "",
