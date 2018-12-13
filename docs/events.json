@@ -48,6 +48,18 @@
         "Timestamp": "12/10/2018"
     },
     {
+        "name": "APIDays Singapore",
+        "websiteURL": "http://microxchg.io/2019/index.html",
+        "twitterURL": "",
+        "start_date": "04/24/2019",
+        "end_date": "04/25/2019",
+        "location": "Singapore, Singapore",
+        "type": "Conference",
+        "area": "Asia",
+        "Description": "Ecosystems and Finance-as-a-Service",
+        "Timestamp": "12/13/2018"
+    },
+    {
         "name": "microXchg",
         "websiteURL": "http://microxchg.io/2019/index.html",
         "twitterURL": "",
