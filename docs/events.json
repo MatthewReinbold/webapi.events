@@ -60,6 +60,18 @@
         "Timestamp": "12/13/2018"
     },
     {
+        "name": "API the Docs Chicago",
+        "websiteURL": "https://apithedocs.org/chicago2019",
+        "twitterURL": "",
+        "start_date": "04/8/2019",
+        "end_date": "04/8/2019",
+        "location": "Chicago, Il",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "One-day conference about API documentation and developer portals",
+        "Timestamp": "12/13/2018"
+    },
+    {
         "name": "microXchg",
         "websiteURL": "http://microxchg.io/2019/index.html",
         "twitterURL": "",
