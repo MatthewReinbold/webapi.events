@@ -24,6 +24,18 @@
         "Timestamp": "12/13/2018"
     },
     {
+        "name": "APIDays Zurich",
+        "websiteURL": "https://www.apidays.co/zurich",
+        "twitterURL": "",
+        "start_date": "05/21/2019",
+        "end_date": "05/22/2019",
+        "location": "Zurich, Switzerland",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "01/22/2019"
+    },
+    {
         "name": "2019 Austin API Summit",
         "websiteURL": "https://nordicapis.com/events/austin-api-summit-2019/",
         "twitterURL": "",
