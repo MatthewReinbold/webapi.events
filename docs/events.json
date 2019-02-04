@@ -1,5 +1,17 @@
 [
     {
+        "name": "RESTfest East US",
+        "websiteURL": "http://www.restfest.org/",
+        "twitterURL": "",
+        "start_date": "09/25/2019",
+        "end_date": "09/28/2019",
+        "location": "Greenville, SC",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "East US",
+        "Timestamp": "02/04/2018"
+    },
+    {
         "name": "APIDaysFinland",
         "websiteURL": "http://www.apidays.fi",
         "twitterURL": "",
@@ -10,6 +22,30 @@
         "area": "Europe",
         "Description": "APIs and Platforms - Transforming Industries and Experiences",
         "Timestamp": "12/13/2018"
+    },
+    {
+        "name": "RESTfest Central EU",
+        "websiteURL": "http://www.restfest.org/",
+        "twitterURL": "",
+        "start_date": "05/31/2019",
+        "end_date": "06/01/2019",
+        "location": "Wroclaw, Poland",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Central EU",
+        "Timestamp": "02/04/2018"
+    },
+    {
+        "name": "RESTfest Midwest US",
+        "websiteURL": "http://www.restfest.org/",
+        "twitterURL": "",
+        "start_date": "05/31/2019",
+        "end_date": "06/01/2019",
+        "location": "Grand Rapids, MI",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "Midwest US",
+        "Timestamp": "02/04/2018"
     },
     {
         "name": "Gluecon 2019",
