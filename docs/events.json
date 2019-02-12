@@ -108,6 +108,18 @@
         "Timestamp": "12/13/2018"
     },
     {
+        "name": "GOTO Academy, NL: Microservices",
+        "websiteURL": "https://www.gotoacademy.nl/collections/microservices",
+        "twitterURL": "",
+        "start_date": "04/10/2019",
+        "end_date": "04/12/2019",
+        "location": "Amersterdam, Netherlands",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Sam Newman teaches microservices",
+        "Timestamp": "02/12/2019"
+    },
+    {
         "name": "API the Docs Chicago",
         "websiteURL": "https://apithedocs.org/chicago2019",
         "twitterURL": "",
@@ -142,6 +154,66 @@
         "area": "Europe",
         "Description": "the business and strategy of APIs",
         "Timestamp": "11/27/2018"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/258388750/",
+        "twitterURL": "",
+        "start_date": "03/06/2019",
+        "end_date": "03/06/2019",
+        "location": "Nashville, TN",
+        "type": "meetup",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "02/12/2019"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/258728403/",
+        "twitterURL": "",
+        "start_date": "03/05/2019",
+        "end_date": "03/05/2019",
+        "location": "Washington, DC",
+        "type": "meetup",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "02/12/2019"
+    },
+    {
+        "name": "API Meetup Barcelona",
+        "websiteURL": "https://www.meetup.com/API-Meetup-Barcelona/events/258461375/",
+        "twitterURL": "",
+        "start_date": "02/28/2019",
+        "end_date": "02/28/2019",
+        "location": "Barcelona, Spain",
+        "type": "meetup",
+        "area": "Europe",
+        "Description": "API Gateway, IoT",
+        "Timestamp": "02/12/2019"
+    },
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/258261828/",
+        "twitterURL": "",
+        "start_date": "02/27/2019",
+        "end_date": "02/27/2019",
+        "location": "Singapore",
+        "type": "meetup",
+        "area": "Asia",
+        "Description": "agile integration",
+        "Timestamp": "02/12/2019"
+    },
+    {
+        "name": "APIs and IPAs",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/257907328/",
+        "twitterURL": "",
+        "start_date": "02/21/2019",
+        "end_date": "02/21/2019",
+        "location": "Seattle, WA",
+        "type": "meetup",
+        "area": "North America",
+        "Description": "Dredd, first npm package",
+        "Timestamp": "02/12/2019"
     },
     {
         "name": "2019 University API Winter Workshop",
