@@ -144,6 +144,78 @@
         "Timestamp": "12/10/2018"
     },
     {
+        "name": "Microservice Meetup Berlin",
+        "websiteURL": "https://www.meetup.com/Microservices-Meetup-Berlin/events/259818730/",
+        "twitterURL": "",
+        "start_date": "04/01/2019",
+        "end_date": "04/01/2019",
+        "location": "Berlin, Germany",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "03/19/2019"
+    },
+    {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/259600606/",
+        "twitterURL": "",
+        "start_date": "03/28/2019",
+        "end_date": "03/28/2019",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "03/19/2019"
+    },
+    {
+        "name": "Paris API",
+        "websiteURL": "https://www.meetup.com/ParisAPI/events/259790815/",
+        "twitterURL": "",
+        "start_date": "03/25/2019",
+        "end_date": "03/25/2019",
+        "location": "Paris, France",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "03/19/2019"
+    },
+    {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/259796396/",
+        "twitterURL": "",
+        "start_date": "03/21/2019",
+        "end_date": "03/21/2019",
+        "location": "Castellón, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "03/19/2019"
+    },
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/259666959/",
+        "twitterURL": "",
+        "start_date": "03/21/2019",
+        "end_date": "03/21/2019",
+        "location": "Singapore, Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "Description": "microservices and API management",
+        "Timestamp": "03/19/2019"
+    },
+    {
+        "name": "Internet of Things Detroit",
+        "websiteURL": "https://www.meetup.com/Internet-of-Things-Detroit/events/259249048/",
+        "twitterURL": "",
+        "start_date": "03/20/2019",
+        "end_date": "03/20/2019",
+        "location": "Detroit, MI",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "IoT",
+        "Timestamp": "03/19/2019"
+    },
+    {
         "name": "Misson API",
         "websiteURL": "https://2019.missionapi.io/",
         "twitterURL": "",
