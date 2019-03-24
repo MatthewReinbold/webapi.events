@@ -96,6 +96,18 @@
         "Timestamp": "12/10/2018"
     },
     {
+        "name": "APIs and IPAs",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/259816005/",
+        "twitterURL": "",
+        "start_date": "2019/04/25",
+        "end_date": "2019/04/25",
+        "location": "Seattle, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "2019/03/24"
+    },
+    {
         "name": "APIDays Singapore",
         "websiteURL": "http://microxchg.io/2019/index.html",
         "twitterURL": "",
@@ -120,6 +132,18 @@
         "Timestamp": "02/12/2019"
     },
     {
+        "name": "APIOps Tampere",
+        "websiteURL": "https://www.meetup.com/APIOps-Tampere/events/259259808/",
+        "twitterURL": "",
+        "start_date": "2019/04/09",
+        "end_date": "2019/04/09",
+        "location": "Tampere, Finland",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "OpenAPI 3.0, RAML, Postman collections, and gRPC",
+        "Timestamp": "2019/03/24"
+    },
+    {
         "name": "API the Docs Chicago",
         "websiteURL": "https://apithedocs.org/chicago2019",
         "twitterURL": "",
@@ -132,6 +156,66 @@
         "Timestamp": "12/13/2018"
     },
     {
+        "name": "Vancouver Microservices Meetup",
+        "websiteURL": "https://www.meetup.com/Vancouver-Microservices-Meetup/events/259775836/",
+        "twitterURL": "",
+        "start_date": "2019/04/03",
+        "end_date": "2019/04/03",
+        "location": "Vancouver, BC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Pooya Paridel, realtor.com, Doug Janzen, Tasktop",
+        "Timestamp": "2019/03/24"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/259549675/",
+        "twitterURL": "",
+        "start_date": "2019/04/03",
+        "end_date": "2019/04/03",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "2019/03/24"
+    },
+    {
+        "name": "Microservices North",
+        "websiteURL": "https://www.meetup.com/Microservices-North/events/259957002/",
+        "twitterURL": "",
+        "start_date": "2019/04/03",
+        "end_date": "2019/04/03",
+        "location": "Manchester, UK",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Kubernetes and AWS Lambda: OpenFaas Demo",
+        "Timestamp": "2019/03/24"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/259492307/",
+        "twitterURL": "",
+        "start_date": "2019/04/02",
+        "end_date": "2019/04/02",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "TBD",
+        "Timestamp": "2019/03/24"
+    },
+    {
+        "name": "Microservices Meetup Berlin",
+        "websiteURL": "https://www.meetup.com/Microservices-Meetup-Berlin/events/259528738/",
+        "twitterURL": "",
+        "start_date": "2019/04/02",
+        "end_date": "2019/04/02",
+        "location": "Berlin, Germany",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "framework Quarkus by Peter Palaga from Red Hat and a talk on Helm by Reinhard Nägele from codecentric",
+        "Timestamp": "2019/03/24"
+    },
+    {
         "name": "microXchg",
         "websiteURL": "http://microxchg.io/2019/index.html",
         "twitterURL": "",
@@ -142,18 +226,6 @@
         "area": "Europe",
         "Description": "focused on microservices and serverless technologies",
         "Timestamp": "12/10/2018"
-    },
-    {
-        "name": "Microservice Meetup Berlin",
-        "websiteURL": "https://www.meetup.com/Microservices-Meetup-Berlin/events/259818730/",
-        "twitterURL": "",
-        "start_date": "04/01/2019",
-        "end_date": "04/01/2019",
-        "location": "Berlin, Germany",
-        "type": "Meetup",
-        "area": "Europe",
-        "Description": "",
-        "Timestamp": "03/19/2019"
     },
     {
         "name": "API Addicts",
