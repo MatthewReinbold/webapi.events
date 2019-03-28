@@ -192,6 +192,18 @@
         "Timestamp": "2019/03/24"
     },
     {
+        "name": "API Surgery - Hong Kong",
+        "websiteURL": "https://www.eventbrite.sg/e/free-workshop-a-90-minute-introduction-to-api-management-tickets-57985593471",
+        "twitterURL": "",
+        "start_date": "2019/04/03",
+        "end_date": "2019/04/03",
+        "location": "Hong Kong",
+        "type": "Meetup",
+        "area": "Asia",
+        "description": "Tyk - Intro to API Management",
+        "Timestamp": "2019/03/28"
+    },
+    {
         "name": "DC Web API User Group",
         "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/259492307/",
         "twitterURL": "",
