@@ -12,6 +12,18 @@
         "Timestamp": "02/04/2018"
     },
     {
+        "name": "API Summit",
+        "websiteURL": "https://api-summit.de/",
+        "twitterURL": "",
+        "start_date": "2019/06/17",
+        "end_date": "2019/06/19",
+        "location": "Munich, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "APIs and DDD",
+        "Timestamp": "04/08/19"
+    },
+    {
         "name": "APIDaysFinland",
         "websiteURL": "http://www.apidays.fi",
         "twitterURL": "",
@@ -96,16 +108,64 @@
         "Timestamp": "12/10/2018"
     },
     {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/260323612/",
+        "twitterURL": "",
+        "start_date": "2019/05/07",
+        "end_date": "2019/05/07",
+        "location": "Washington",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "2019/04/08"
+    },
+    {
+        "name": "London API",
+        "websiteURL": "https://www.meetup.com/London-API-Group/events/259756997/",
+        "twitterURL": "",
+        "start_date": "2019/05/01",
+        "end_date": "2019/05/01",
+        "location": "London",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Liam will be discussing Deployment Patterns for API Gateways",
+        "Timestamp": "2019/04/08"
+    },
+    {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/260351292/",
+        "twitterURL": "",
+        "start_date": "2019/04/26",
+        "end_date": "2019/04/26",
+        "location": "Madrid",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "2019/04/08"
+    },
+    {
         "name": "APIs and IPAs",
         "websiteURL": "https://www.meetup.com/seattle-api/events/259816005/",
         "twitterURL": "",
-        "start_date": "2019/04/25",
-        "end_date": "2019/04/25",
+        "start_date": "2019/04/26",
+        "end_date": "2019/04/26",
         "location": "Seattle, WA",
         "type": "Meetup",
         "area": "North America",
         "description": "",
         "Timestamp": "2019/03/24"
+    },
+    {
+        "name": "Paris API",
+        "websiteURL": "https://www.meetup.com/ParisAPI/events/260228630/",
+        "twitterURL": "",
+        "start_date": "2019/04/23",
+        "end_date": "2019/04/23",
+        "location": "Paris",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Building an API oriented product",
+        "Timestamp": "2019/04/08"
     },
     {
         "name": "APIDays Singapore",
@@ -118,6 +178,18 @@
         "area": "Asia",
         "Description": "Ecosystems and Finance-as-a-Service",
         "Timestamp": "12/13/2018"
+    },
+    {
+        "name": "API Meetup Barcelona",
+        "websiteURL": "https://www.meetup.com/API-Meetup-Barcelona/events/260257893/",
+        "twitterURL": "",
+        "start_date": "2019/04/11",
+        "end_date": "2019/04/11",
+        "location": "Barcelona",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Adeel Ali, CEO and Founder of apimatic.io, Phil Sturgeon, When Depndecies Go Wild!",
+        "Timestamp": "2019/04/08"
     },
     {
         "name": "GOTO Academy, NL: Microservices",
