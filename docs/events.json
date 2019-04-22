@@ -60,6 +60,18 @@
         "Timestamp": "02/04/2018"
     },
     {
+        "name": "APIs and IPAs",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/260705669/",
+        "twitterURL": "",
+        "start_date": "05/22/2019",
+        "end_date": "05/22/2019",
+        "location": "Bellevue, WA",
+        "type": "Meetup",
+        "area": "",
+        "description": "",
+        "Timestamp": "04/22/2019"
+    },
+    {
         "name": "Gluecon 2019",
         "websiteURL": "http://gluecon.com/",
         "twitterURL": "",
@@ -82,6 +94,30 @@
         "area": "Europe",
         "Description": "",
         "Timestamp": "01/22/2019"
+    },
+    {
+        "name": "API Meetup Barcelona",
+        "websiteURL": "https://www.meetup.com/API-Meetup-Barcelona/events/259590879/",
+        "twitterURL": "",
+        "start_date": "05/20/2019",
+        "end_date": "05/20/2019",
+        "location": "Barcelona, Spain",
+        "type": "Meetup",
+        "area": "",
+        "description": "Streaming APIs and Microservices",
+        "Timestamp": "04/22/2019"
+    },
+    {
+        "name": "api dot culture",
+        "websiteURL": "https://www.meetup.com/Les-API-de-la-culture/events/260303171/",
+        "twitterURL": "",
+        "start_date": "05/15/2019",
+        "end_date": "05/15/2019",
+        "location": "Paris, France",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "04/22/2019"
     },
     {
         "name": "2019 Austin API Summit",
@@ -108,6 +144,18 @@
         "Timestamp": "12/10/2018"
     },
     {
+        "name": "The Austin Homegrown API",
+        "websiteURL": "https://www.meetup.com/Austin-Homegrown-API/events/259963762/",
+        "twitterURL": "",
+        "start_date": "05/09/2019",
+        "end_date": "05/09/2019",
+        "location": "Austin, TX",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "API documentation",
+        "Timestamp": "04/22/2019"
+    },
+    {
         "name": "DC Web API User Group",
         "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/260323612/",
         "twitterURL": "",
@@ -120,6 +168,18 @@
         "Timestamp": "04/08"
     },
     {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/259535807/",
+        "twitterURL": "",
+        "start_date": "05/01/2019",
+        "end_date": "05/01/2019",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "<p>The Nashville API monthly meet up. If you're a developer, know a developer, want to be a developer, ever used an API, or just want to know what an API is you are welcome to join us.</p>",
+        "Timestamp": "04/22/2019"
+    },
+    {
         "name": "London API",
         "websiteURL": "https://www.meetup.com/London-API-Group/events/259756997/",
         "twitterURL": "",
@@ -130,6 +190,18 @@
         "area": "Europe",
         "description": "Liam will be discussing Deployment Patterns for API Gateways",
         "Timestamp": "04/08"
+    },
+    {
+        "name": "Internet of Things Detroit",
+        "websiteURL": "https://www.meetup.com/Internet-of-Things-Detroit/events/260639814/",
+        "twitterURL": "",
+        "start_date": "04/29/2019",
+        "end_date": "04/29/2019",
+        "location": "Detroit, MI",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "The IoT Tech Connect conference returns to the area for its 2nd year on Monday April 29th. Autonomous Vehicles, Mobility and connected cities, Cybersecurity, AR/VR Technology",
+        "Timestamp": "04/22/2019"
     },
     {
         "name": "API Addicts",
