@@ -12,6 +12,18 @@
         "Timestamp": "02/04/2018"
     },
     {
+        "name": "API City 2019",
+        "websiteURL": "https://2019.apicity.io",
+        "twitterURL": "",
+        "start_date": "09/05/2019",
+        "end_date": "09/05/2019",
+        "location": "Seattle, WA",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "East US",
+        "Timestamp": "04/23/2018"
+    },
+    {
         "name": "API Summit",
         "websiteURL": "https://api-summit.de/",
         "twitterURL": "",
