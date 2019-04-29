@@ -72,6 +72,18 @@
         "Timestamp": "02/04/2018"
     },
     {
+        "name": "London API",
+        "websiteURL": "https://www.meetup.com/London-API-Group/events/259757374/",
+        "twitterURL": "",
+        "start_date": "05/22/2019",
+        "end_date": "05/22/2019",
+        "location": "London, England",
+        "type": "Meetup",
+        "area": "",
+        "description": "Lee Nugent, Conrad Godfrey from Gousto, Experience in Serverless Payments.",
+        "Timestamp": "04/29/2019"
+    },
+    {
         "name": "APIs and IPAs",
         "websiteURL": "https://www.meetup.com/seattle-api/events/260705669/",
         "twitterURL": "",
