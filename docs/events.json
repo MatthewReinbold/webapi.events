@@ -1,15 +1,15 @@
 [
     {
-        "name": "RESTfest East US",
-        "websiteURL": "http://www.restfest.org/",
+        "name": "API Specifications Conference (ASC)",
+        "websiteURL": "https://www.openapis.org/blog/2019/05/08/introducing-asc-the-api-specifications-conference",
         "twitterURL": "",
-        "start_date": "09/25/2019",
-        "end_date": "09/28/2019",
-        "location": "Greenville, SC",
+        "start_date": "10/15/2019",
+        "end_date": "10/17/2019",
+        "location": "Vancouver, CA",
         "type": "Conference",
         "area": "North America",
-        "Description": "East US",
-        "Timestamp": "02/04/2018"
+        "Description": "OpenAPI",
+        "Timestamp": "05/09/2019"
     },
     {
         "name": "API World",
@@ -22,6 +22,18 @@
         "area": "North America",
         "Description": "API Economy",
         "Timestamp": "04/29/2019"
+    },
+    {
+        "name": "RESTfest East US",
+        "websiteURL": "http://www.restfest.org/",
+        "twitterURL": "",
+        "start_date": "09/25/2019",
+        "end_date": "09/28/2019",
+        "location": "Greenville, SC",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "East US",
+        "Timestamp": "02/04/2018"
     },
     {
         "name": "API City 2019",
