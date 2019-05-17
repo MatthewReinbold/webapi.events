@@ -12,6 +12,18 @@
         "Timestamp": "05/09/2019"
     },
     {
+        "name": "API the Docs",
+        "websiteURL": "https://apithedocs.org/amsterdam2019",
+        "twitterURL": "",
+        "start_date": "10/11/2019",
+        "end_date": "10/11/2019",
+        "location": "Amsterdam, Netherlands",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "API documentation",
+        "Timestamp": "05/17/2019"
+    },
+    {
         "name": "API World",
         "websiteURL": "https://www.eventbrite.com/e/api-world-2019-registration-56212967499",
         "twitterURL": "",
@@ -120,6 +132,18 @@
         "Timestamp": "02/04/2018"
     },
     {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/261425621/",
+        "twitterURL": "",
+        "start_date": "05/23/2019",
+        "end_date": "05/23/2019",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "OpenAPI",
+        "Timestamp": "05/17/2019"
+    },
+    {
         "name": "London API",
         "websiteURL": "https://www.meetup.com/London-API-Group/events/259757374/",
         "twitterURL": "",
@@ -166,6 +190,18 @@
         "area": "Europe",
         "Description": "",
         "Timestamp": "01/22/2019"
+    },
+    {
+        "name": "API Craft San Francisco",
+        "websiteURL": "https://www.meetup.com/API-Craft-San-Francisco/events/261363967/",
+        "twitterURL": "",
+        "start_date": "05/21/2019",
+        "end_date": "05/21/2019",
+        "location": "San Francisco, CA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "DX with Square and Sabre",
+        "Timestamp": "05/17/2019"
     },
     {
         "name": "API Meetup Barcelona",
