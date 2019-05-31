@@ -1,5 +1,29 @@
 [
     {
+        "name": "API Days - Paris",
+        "websiteURL": "https://www.apidays.co/paris",
+        "twitterURL": "",
+        "start_date": "12/10/2019",
+        "end_date": "12/11/2019",
+        "location": "Paris, France",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Legacy to Agile, from Product to Ecosystems",
+        "Timestamp": "05/31/2019"
+    },
+    {
+        "name": "2019 Nordic APIs Platform Summit",
+        "websiteURL": "https://nordicapis.com/events/the-2019-platform-summit/",
+        "twitterURL": "",
+        "start_date": "10/21/2019",
+        "end_date": "10/23/2019",
+        "location": "Stockholm, Sweden",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Continuous API Strategies for Integrated Platforms",
+        "Timestamp": "05/31/2019"
+    },
+    {
         "name": "API Specifications Conference (ASC)",
         "websiteURL": "https://www.openapis.org/blog/2019/05/08/introducing-asc-the-api-specifications-conference",
         "twitterURL": "",
@@ -48,6 +72,30 @@
         "Timestamp": "02/04/2018"
     },
     {
+        "name": "API Days - Melbourne",
+        "websiteURL": "https://www.apidays.co/melbourne",
+        "twitterURL": "",
+        "start_date": "09/19/2019",
+        "end_date": "09/20/2019",
+        "location": "Melbourne, Australia",
+        "type": "Conference",
+        "area": "Oceania (Australia, New Zealand, Fiji, etc.)",
+        "Description": "Agile Digital Transformation",
+        "Timestamp": "05/31/2019"
+    },
+    {
+        "name": "API Days - Barcelona",
+        "websiteURL": "https://www.apidays.co/barcelona",
+        "twitterURL": "",
+        "start_date": "09/12/2019",
+        "end_date": "09/13/2019",
+        "location": "Barcelona, Spain",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "APIs for Consumer Applications",
+        "Timestamp": "05/21/2019"
+    },
+    {
         "name": "API City 2019",
         "websiteURL": "https://2019.apicity.io",
         "twitterURL": "",
@@ -58,6 +106,30 @@
         "area": "North America",
         "Description": "East US",
         "Timestamp": "04/23/2019"
+    },
+    {
+        "name": "API Days - San Francisco",
+        "websiteURL": "https://www.apidays.co/sanfrancisco",
+        "twitterURL": "",
+        "start_date": "07/16/2019",
+        "end_date": "07/17/2019",
+        "location": "San Francisco, California",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "The Future API Stack",
+        "Timestamp": "05/31/19"
+    },
+    {
+        "name": "API Days - Amsterdam",
+        "websiteURL": "https://www.apidays.co/amsterdam",
+        "twitterURL": "",
+        "start_date": "06/18/2019",
+        "end_date": "06/19/2019",
+        "location": "Amsterdam, Netherlands",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Rise of Contextual Communications",
+        "Timestamp": "05/31/19"
     },
     {
         "name": "API Summit",
