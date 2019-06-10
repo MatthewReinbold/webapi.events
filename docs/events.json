@@ -120,6 +120,114 @@
         "Timestamp": "05/31/19"
     },
     {
+        "name": "api dot culture",
+        "websiteURL": "https://www.meetup.com/Les-API-de-la-culture/events/261507457/",
+        "twitterURL": "",
+        "start_date": "07/04/2019",
+        "end_date": "07/04/2019",
+        "location": "Paris, France",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "06/10/2019"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/fkblppyzkbfb/",
+        "twitterURL": "",
+        "start_date": "07/03/2019",
+        "end_date": "07/03/2019",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "06/10/2019"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/261949338/",
+        "twitterURL": "",
+        "start_date": "07/02/2019",
+        "end_date": "07/02/2019",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "06/10/2019"
+    },
+    {
+        "name": "APIs and IPAs",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/261686279/",
+        "twitterURL": "",
+        "start_date": "06/28/2019",
+        "end_date": "06/28/2019",
+        "location": "Seattle, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Doug Sillars, Danno Mayer",
+        "Timestamp": "06/10/2019"
+    },
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/261998286/",
+        "twitterURL": "",
+        "start_date": "06/25/2019",
+        "end_date": "06/25/2019",
+        "location": "Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "description": "Autodesk leverages APIs to share microservices among internal development teams",
+        "Timestamp": "06/10/2019"
+    },
+    {
+        "name": "Microservices Meetup Berlin",
+        "websiteURL": "https://www.meetup.com/Microservices-Meetup-Berlin/events/260445029/",
+        "twitterURL": "",
+        "start_date": "06/24/2019",
+        "end_date": "06/24/2019",
+        "location": "Berlin, Germany",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Chaos Engineering, Russ Miles, CEO of ChaosIQ, and Benjamin Wilms, Senior Engineer at codecentric",
+        "Timestamp": "06/10/2019"
+    },
+    {
+        "name": "The Austin Homegrown API",
+        "websiteURL": "https://www.meetup.com/Austin-Homegrown-API/events/261836037/",
+        "twitterURL": "",
+        "start_date": "06/20/2019",
+        "end_date": "06/20/2019",
+        "location": "Austin, TX",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "developer experience by Richard Lindsey of ShipStation",
+        "Timestamp": "06/10/2019"
+    },
+    {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/261927520/",
+        "twitterURL": "",
+        "start_date": "06/19/2019",
+        "end_date": "06/19/2019",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Marco Antonio Sanz, API Evangelist en CloudAPPi, David Marín del Pino (API Evangelist en CloudAPPi), Open API 3, Isabelle Mauny (CTO en 42Crunch), Testing APIs(4h), Omar del Valle (API Architect en Finect), Noelia Martín (Consultora API Management)",
+        "Timestamp": "06/10/2019"
+    },
+    {
+        "name": "Singapore Tyks",
+        "websiteURL": "https://www.meetup.com/Tyk-Users-Singapore/events/261845208/",
+        "twitterURL": "",
+        "start_date": "06/18/2019",
+        "end_date": "06/18/2019",
+        "location": "Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "description": "David Garvey",
+        "Timestamp": "06/10/2019"
+    },
+    {
         "name": "API Days - Amsterdam",
         "websiteURL": "https://www.apidays.co/amsterdam",
         "twitterURL": "",
@@ -142,6 +250,18 @@
         "area": "Europe",
         "Description": "APIs and DDD",
         "Timestamp": "04/08/19"
+    },
+    {
+        "name": "London Tyks",
+        "websiteURL": "https://www.meetup.com/London-Tyks/events/261641831/",
+        "twitterURL": "",
+        "start_date": "06/12/2019",
+        "end_date": "06/12/2019",
+        "location": "London, England",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Joshua Blakeley, Yaara Letz and Ahmet Soormally",
+        "Timestamp": "06/10/2019"
     },
     {
         "name": "Nashville API Developers",
