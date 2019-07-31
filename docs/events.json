@@ -12,6 +12,18 @@
         "Timestamp": "05/31/2019"
     },
     {
+        "name": "API Mastermind Budapest",
+        "websiteURL": "https://pronovix.com/api-mastermind-budapest",
+        "twitterURL": "",
+        "start_date": "11/28/2019",
+        "end_date": "11/29/2019",
+        "location": "Budapest, Hungary",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Open Space Event to discuss API Program with Peers",
+        "Timestamp": "07/24/2019"
+    },
+    {
         "name": "2019 Nordic APIs Platform Summit",
         "websiteURL": "https://nordicapis.com/events/the-2019-platform-summit/",
         "twitterURL": "",
@@ -106,6 +118,66 @@
         "area": "North America",
         "Description": "East US",
         "Timestamp": "04/23/2019"
+    },
+    {
+        "name": "APIs and IPAs",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/261686347/",
+        "twitterURL": "",
+        "start_date": "08/15/2019",
+        "end_date": "08/15/2019",
+        "location": "Bellevue",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Identity 101. Social logins, Identity Providers, OAuth 2.0, LDAP, SAML, OpenId Connect",
+        "Timestamp": "07/31/2019"
+    }
+    {
+        "name": "The Austin Homegrown API",
+        "websiteURL": "https://www.meetup.com/Austin-Homegrown-API/events/263399241/",
+        "twitterURL": "",
+        "start_date": "08/15/2019",
+        "end_date": "08/15/2019",
+        "location": "Austin",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "07/31/2019"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/262299846/",
+        "twitterURL": "",
+        "start_date": "08/07/2019",
+        "end_date": "08/07/2019",
+        "location": "Nashville",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "07/31/2019"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/261949342/",
+        "twitterURL": "",
+        "start_date": "08/06/2019",
+        "end_date": "08/06/2019",
+        "location": "Washington",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "07/31/2019"
+    },
+    {
+        "name": "Vancouver Microservices Meetup",
+        "websiteURL": "https://www.meetup.com/Vancouver-Microservices-Meetup/events/262407821/",
+        "twitterURL": "",
+        "start_date": "07/31/2019",
+        "end_date": "07/31/2019",
+        "location": "Vancouver",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Microservices: Five Years In, Alexei Potiagalov: Microservices -- What to Expect",
+        "Timestamp": "07/31/2019"
     },
     {
         "name": "API Days - San Francisco",
