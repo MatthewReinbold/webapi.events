@@ -130,7 +130,7 @@
         "area": "North America",
         "description": "Identity 101. Social logins, Identity Providers, OAuth 2.0, LDAP, SAML, OpenId Connect",
         "Timestamp": "07/31/2019"
-    }
+    },
     {
         "name": "The Austin Homegrown API",
         "websiteURL": "https://www.meetup.com/Austin-Homegrown-API/events/263399241/",
@@ -284,7 +284,7 @@
         "location": "Madrid, Spain",
         "type": "Meetup",
         "area": "Europe",
-        "description": "Marco Antonio Sanz, API Evangelist en CloudAPPi, David Marín del Pino (API Evangelist en CloudAPPi), Open API 3, Isabelle Mauny (CTO en 42Crunch), Testing APIs(4h), Omar del Valle (API Architect en Finect), Noelia Martín (Consultora API Management)",
+        "description": "Marco Antonio Sanz, API Evangelist en CloudAPPi, David Marï¿½n del Pino (API Evangelist en CloudAPPi), Open API 3, Isabelle Mauny (CTO en 42Crunch), Testing APIs(4h), Omar del Valle (API Architect en Finect), Noelia Martï¿½n (Consultora API Management)",
         "Timestamp": "06/10/2019"
     },
     {
@@ -740,7 +740,7 @@
         "location": "Berlin, Germany",
         "type": "Meetup",
         "area": "Europe",
-        "description": "framework Quarkus by Peter Palaga from Red Hat and a talk on Helm by Reinhard Nägele from codecentric",
+        "description": "framework Quarkus by Peter Palaga from Red Hat and a talk on Helm by Reinhard Nï¿½gele from codecentric",
         "Timestamp": "03/24"
     },
     {
@@ -785,7 +785,7 @@
         "twitterURL": "",
         "start_date": "03/21/2019",
         "end_date": "03/21/2019",
-        "location": "Castellón, Spain",
+        "location": "Castellï¿½n, Spain",
         "type": "Meetup",
         "area": "Europe",
         "Description": "",
@@ -1748,7 +1748,7 @@
         "location": "Seattle, WA",
         "type": "Meetup",
         "area": "North America",
-        "Description": "OpenAPI Specification 3.0 – Do you speak API? by Samuel Nimako-Mensah",
+        "Description": "OpenAPI Specification 3.0 ï¿½ Do you speak API? by Samuel Nimako-Mensah",
         "Timestamp": "3/13/2018"
     },
     {
@@ -2564,7 +2564,7 @@
         "location": "Cary, NC",
         "type": "Meetup",
         "area": "North America",
-        "Description": "\"OData – The Universal REST API",
+        "Description": "\"OData ï¿½ The Universal REST API",
         "Timestamp": "5/21/2017"
     },
     {
@@ -3464,7 +3464,7 @@
         "location": "San Francisco, CA",
         "type": "Meetup",
         "area": "North America",
-        "Description": "Developer evangelist, Jesse from <a href=\\\"https://raygun.com/\\\">Raygun</a> will be talking about the experiences his team have “enjoyed” in integrating their platform with more than 20 different services",
+        "Description": "Developer evangelist, Jesse from <a href=\\\"https://raygun.com/\\\">Raygun</a> will be talking about the experiences his team have ï¿½enjoyedï¿½ in integrating their platform with more than 20 different services",
         "Timestamp": "6/25/2016 10:10:25"
     },
     {
@@ -3524,7 +3524,7 @@
         "location": "Austin, TX",
         "type": "Meetup",
         "area": "North America",
-        "Description": "It’s All About Dem Bots",
+        "Description": "Itï¿½s All About Dem Bots",
         "Timestamp": "5/30/2016 20:19:19"
     },
     {
@@ -3617,7 +3617,7 @@
         "twitterURL": "",
         "start_date": "6/9/2016",
         "end_date": "6/9/2016",
-        "location": "São Paulo, Brazil",
+        "location": "Sï¿½o Paulo, Brazil",
         "type": "Meetup",
         "area": "South America",
         "Description": "API Experience 2016",
@@ -3944,7 +3944,7 @@
         "location": "San Francisco, CA",
         "type": "Hackathon",
         "area": "North America",
-        "Description": "Following a series of successful meetup events at API Craft San Francisco, we're hosting the world’s first ever hackathon focused on API Design!",
+        "Description": "Following a series of successful meetup events at API Craft San Francisco, we're hosting the worldï¿½s first ever hackathon focused on API Design!",
         "Timestamp": "3/13/2016 21:17:34"
     },
     {
@@ -4700,7 +4700,7 @@
         "location": "Las Vegas, NV",
         "type": "Conference",
         "area": "North America",
-        "Description": "xAPI Camp is a one-day event showcasing what’s possible with xAPI.",
+        "Description": "xAPI Camp is a one-day event showcasing whatï¿½s possible with xAPI.",
         "Timestamp": "7/12/2015 17:31:39"
     },
     {
@@ -4781,10 +4781,10 @@
         "twitterURL": "",
         "start_date": "9/10/2015",
         "end_date": "9/10/2015",
-        "location": "Göteborg, Sweden",
+        "location": "Gï¿½teborg, Sweden",
         "type": "Meetup",
         "area": "Europe",
-        "Description": "API Management införande, erfarenhet och förvaltning",
+        "Description": "API Management infï¿½rande, erfarenhet och fï¿½rvaltning",
         "Timestamp": "7/26/2015 9:57:54"
     },
     {
@@ -4928,7 +4928,7 @@
         "location": "Seattle, WA",
         "type": "Conference",
         "area": "North America",
-        "Description": "xAPI Camp is a one-day event showcasing what’s possible with xAPI. ",
+        "Description": "xAPI Camp is a one-day event showcasing whatï¿½s possible with xAPI. ",
         "Timestamp": "7/12/2015 17:27:33"
     }
 ]
