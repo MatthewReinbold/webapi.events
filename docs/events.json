@@ -24,6 +24,18 @@
         "Timestamp": "07/24/2019"
     },
     {
+        "name": "API Days: Banking APIs and PSD2",
+        "websiteURL": "https://www.apidays.co/london",
+        "twitterURL": "",
+        "start_date": "11/13/2019",
+        "end_date": "11/14/2019",
+        "location": "London, England",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "APIs and PSD2",
+        "Timestamp": "08/26/2019"
+    },
+    {
         "name": "2019 Nordic APIs Platform Summit",
         "websiteURL": "https://nordicapis.com/events/the-2019-platform-summit/",
         "twitterURL": "",
@@ -106,6 +118,18 @@
         "area": "Europe",
         "Description": "APIs for Consumer Applications",
         "Timestamp": "05/21/2019"
+    },
+    {
+        "name": "Postman User Conference",
+        "websiteURL": "https://www.getpostman.com/post-con-2019/",
+        "twitterURL": "",
+        "start_date": "09/11/2019",
+        "end_date": "09/12/2019",
+        "location": "San Francisco, CA",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "API testing and automation",
+        "Timestamp": "08/26/2019"
     },
     {
         "name": "API City 2019",
