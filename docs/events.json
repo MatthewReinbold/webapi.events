@@ -1,5 +1,17 @@
 [
     {
+        "name": "Austin API Summit",
+        "websiteURL": "https://nordicapis.com/events/austin-api-summit-2020",
+        "twitterURL": "",
+        "start_date": "05/04/2019",
+        "end_date": "05/06/2019",
+        "location": "Austin, TX",
+        "type": "Conference",
+        "area": "Meetup",
+        "Description": "",
+        "Timestamp": "09/03/2019"
+    },
+	{
         "name": "API Days - Paris",
         "websiteURL": "https://www.apidays.co/paris",
         "twitterURL": "",
@@ -84,6 +96,30 @@
         "Timestamp": "04/29/2019"
     },
     {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/263816794/",
+        "twitterURL": "",
+        "start_date": "10/02/2019",
+        "end_date": "10/02/2019",
+        "location": "Nashville",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "09/03/2019"
+    }
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/262010821/",
+        "twitterURL": "",
+        "start_date": "10/01/2019",
+        "end_date": "10/01/2019",
+        "location": "Washington",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "09/03/2019"
+    },
+    {
         "name": "RESTfest East US",
         "websiteURL": "http://www.restfest.org/",
         "twitterURL": "",
@@ -94,6 +130,42 @@
         "area": "North America",
         "Description": "East US",
         "Timestamp": "02/04/2018"
+    },
+    {
+        "name": "The Austin Homegrown API",
+        "websiteURL": "https://www.meetup.com/Austin-Homegrown-API/events/264135303/",
+        "twitterURL": "",
+        "start_date": "09/19/2019",
+        "end_date": "09/19/2019",
+        "location": "Austin",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Rick McDonald, and John Banning of Bazaarvoice,Adam Altman of Rebilly",
+        "Timestamp": "09/03/2019"
+    },
+    {
+        "name": "That API Meetup: REST, Cloud Integrations & SaaS :Sydney, AU",
+        "websiteURL": "https://www.meetup.com/All-Things-API-REST-Cloud-Integrations-SaaS-Sydney-AU/events/264126644/",
+        "twitterURL": "",
+        "start_date": "09/17/2019",
+        "end_date": "09/17/2019",
+        "location": "Sydney",
+        "type": "Meetup",
+        "area": "Oceania (Australia, New Zealand, Fiji, etc.)",
+        "description": "Uli Hitzel from Axway, and Phil Scanlon from Solace",
+        "Timestamp": "09/03/2019"
+    },
+    {
+        "name": "API Meetup Barcelona",
+        "websiteURL": "https://www.meetup.com/API-Meetup-Barcelona/events/264191752/",
+        "twitterURL": "",
+        "start_date": "09/13/2019",
+        "end_date": "09/13/2019",
+        "location": "Barcelona",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Security for APIs and Microservices, Liran Tal - Developer Advocate @ Snyk, Waleed Ashraf - Node.js Developer @ relayr,AsyncAPI",
+        "Timestamp": "09/03/2019"
     },
     {
         "name": "API Days - Melbourne",
@@ -132,6 +204,30 @@
         "Timestamp": "08/26/2019"
     },
     {
+        "name": "London API",
+        "websiteURL": "https://www.meetup.com/London-API-Group/events/263484262/",
+        "twitterURL": "",
+        "start_date": "09/10/2019",
+        "end_date": "09/10/2019",
+        "location": "London ",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Hashicorp Terraform,Azuree infrastructure",
+        "Timestamp": "09/03/2019"
+    },
+    {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/261927520/",
+        "twitterURL": "",
+        "start_date": "09/09/2019",
+        "end_date": "09/09/2019",
+        "location": "Madrid",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "09/03/2019"
+    },
+    {
         "name": "API City 2019",
         "websiteURL": "https://2019.apicity.io",
         "twitterURL": "",
@@ -142,6 +238,42 @@
         "area": "North America",
         "Description": "East US",
         "Timestamp": "04/23/2019"
+    },
+    {
+        "name": "Seattle APIs and Technology",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/262009154/",
+        "twitterURL": "",
+        "start_date": "09/05/2019",
+        "end_date": "09/05/2019",
+        "location": "Seattle",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "09/03/2019"
+    },
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/264174816/",
+        "twitterURL": "",
+        "start_date": "09/04/2019",
+        "end_date": "09/04/2019",
+        "location": "",
+        "type": "Meetup",
+        "area": "Asia",
+        "description": "",
+        "Timestamp": "09/03/2019"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/263825251/",
+        "twitterURL": "",
+        "start_date": "09/04/2019",
+        "end_date": "09/04/2019",
+        "location": "Nashville",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "09/03/2019"
     },
     {
         "name": "APIs and IPAs",
