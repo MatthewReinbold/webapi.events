@@ -72,6 +72,18 @@
         "Timestamp": "05/09/2019"
     },
     {
+        "name": "API Conference",
+        "websiteURL": "https://apiconference.net/",
+        "twitterURL": "",
+        "start_date": "10/14/2019",
+        "end_date": "10/16/2019",
+        "location": "Berlin, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "API design and management",
+        "Timestamp": "09/23/2019"
+    },
+    {
         "name": "API the Docs",
         "websiteURL": "https://apithedocs.org/amsterdam2019",
         "twitterURL": "",
