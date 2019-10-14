@@ -36,6 +36,30 @@
         "Timestamp": "08/26/2019"
     },
     {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/264035910/",
+        "twitterURL": "",
+        "start_date": "11/07/2019",
+        "end_date": "11/07/2019",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "10/14/2019"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/262010814/",
+        "twitterURL": "",
+        "start_date": "11/05/2019",
+        "end_date": "11/05/2019",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "10/14/2019"
+    },
+    {
         "name": "2019 Nordic APIs Platform Summit",
         "websiteURL": "https://nordicapis.com/events/the-2019-platform-summit/",
         "twitterURL": "",
@@ -46,6 +70,18 @@
         "area": "Europe",
         "Description": "Continuous API Strategies for Integrated Platforms",
         "Timestamp": "05/31/2019"
+    },
+    {
+        "name": "The Austin Homegrown API",
+        "websiteURL": "https://www.meetup.com/Austin-Homegrown-API/events/265349682/",
+        "twitterURL": "",
+        "start_date": "10/17/2019",
+        "end_date": "10/17/2019",
+        "location": "Austin, TX",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "APIMatic and Bandwidth giving presentations on API developer experience.",
+        "Timestamp": "10/14/2019"
     },
     {
         "name": "API Specifications Conference (ASC)",
