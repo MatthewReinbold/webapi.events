@@ -7,9 +7,21 @@
         "end_date": "05/06/2020",
         "location": "Austin, TX",
         "type": "Conference",
-        "area": "Meetup",
+        "area": "North America",
         "Description": "",
         "Timestamp": "09/03/2019"
+    },
+    {
+        "name": "microxchg 2020",
+        "websiteURL": "http://microxchg.io/2020/index.html",
+        "twitterURL": "",
+        "start_date": "04/02/2020",
+        "end_date": "04/03/2020",
+        "location": "Berlin, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "The Microservices, Serverless & Cloud Native Conference",
+        "Timestamp": "10/04/2019"
     },
 	{
         "name": "API Days - Paris",
@@ -22,6 +34,18 @@
         "area": "Europe",
         "Description": "Legacy to Agile, from Product to Ecosystems",
         "Timestamp": "05/31/2019"
+    },
+	{
+        "name": "API Summit",
+        "websiteURL": "https://api-summit.de",
+        "twitterURL": "",
+        "start_date": "12/09/2019",
+        "end_date": "12/11/2019",
+        "location": "Berlin, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "10/04/2019"
     },
     {
         "name": "Nashville API Developers",
