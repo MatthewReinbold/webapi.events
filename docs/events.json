@@ -24,6 +24,66 @@
         "Timestamp": "05/31/2019"
     },
     {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/264431010/",
+        "twitterURL": "",
+        "start_date": "12/05/2019",
+        "end_date": "12/05/2019",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "11/04/2019"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/262010802/",
+        "twitterURL": "",
+        "start_date": "12/03/2019",
+        "end_date": "12/03/2019",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "11/04/2019"
+    },
+    {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/265871914/",
+        "twitterURL": "",
+        "start_date": "11/20/2019",
+        "end_date": "11/20/2019",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "serverless",
+        "Timestamp": "11/04/2019"
+    },
+    {
+        "name": "Seattle APIs and Technology",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/264745882/",
+        "twitterURL": "",
+        "start_date": "11/15/2019",
+        "end_date": "11/15/2019",
+        "location": "Renton, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Building APIs the Serverless Way, Tessa Mero, vue.js HTML 5 RTC, Becky Peltz",
+        "Timestamp": "11/04/2019"
+    },
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/265676363/",
+        "twitterURL": "",
+        "start_date": "11/14/2019",
+        "end_date": "11/14/2019",
+        "location": "Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "description": "fintech, Event-driven architectures, Temenos, Axway and Solace",
+        "Timestamp": "11/04/2019"
+    },
+    {
         "name": "API Days: Banking APIs and PSD2",
         "websiteURL": "https://www.apidays.co/london",
         "twitterURL": "",
@@ -4892,7 +4952,7 @@
         "location": "Las Vegas, NV",
         "type": "Conference",
         "area": "North America",
-        "Description": "xAPI Camp is a one-day event showcasing what�s possible with xAPI.",
+        "Description": "xAPI Camp is a one-day event showcasing what's possible with xAPI.",
         "Timestamp": "7/12/2015 17:31:39"
     },
     {
