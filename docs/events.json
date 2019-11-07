@@ -12,6 +12,18 @@
         "Timestamp": "09/03/2019"
     },
     {
+        "name": "API Conference",
+        "websiteURL": "https://apiconference.net/",
+        "twitterURL": "",
+        "start_date": "04/20/2020",
+        "end_date": "04/22/2020",
+        "location": "The Hague, Netherlands",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "The Conference for Web APIs, API Design and Management",
+        "Timestamp": "10/07/2019"
+    },
+    {
         "name": "microxchg 2020",
         "websiteURL": "http://microxchg.io/2020/index.html",
         "twitterURL": "",
