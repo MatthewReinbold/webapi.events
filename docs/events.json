@@ -60,6 +60,18 @@
         "Timestamp": "05/31/2019"
     },
 	{
+        "name": "Postman Seattle Meetup",
+        "websiteURL": "https://www.eventbrite.com/e/postman-seattle-meetup-visualize-data-in-postman-tickets-81807834435",
+        "twitterURL": "",
+        "start_date": "12/10/2019",
+        "end_date": "12/10/2019",
+        "location": "Seattle, WA",
+        "type": "meetup",
+        "area": "North America",
+        "Description": "Visualize Data in Postman",
+        "Timestamp": "11/19/2019"
+    },
+	{
         "name": "API Summit",
         "websiteURL": "https://api-summit.de",
         "twitterURL": "",
