@@ -48,6 +48,18 @@
         "Timestamp": "10/04/2019"
     },
 	{
+        "name": "University API Winter Workshop",
+        "websiteURL": "https://www.eventbrite.com/e/2020-university-api-winter-workshop-tickets-55666562186",
+        "twitterURL": "",
+        "start_date": "01/29/2020",
+        "end_date": "01/30/2020",
+        "location": "Provo, Utah",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "Open Space Tech unConference focused on University and Personal API's and thier use in Improving Learning",
+        "Timestamp": "12/02/2019"
+    },
+	{
         "name": "API Days - Paris",
         "websiteURL": "https://www.apidays.co/paris",
         "twitterURL": "",
