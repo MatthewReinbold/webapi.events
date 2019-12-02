@@ -1,5 +1,17 @@
 [
     {
+        "name": "API Days Helsinki",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "06/02/2020",
+        "end_date": "06/03/2020",
+        "location": "Helsinki, Finland",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Platforms",
+        "Timestamp": "12/02/2019"
+    },
+    {
         "name": "Micro CPH",
         "websiteURL": "https://microcph.dk",
         "twitterURL": "",
@@ -10,6 +22,18 @@
         "area": "Europe",
         "Description": "",
         "Timestamp": "11/19/2019"
+    },
+    {
+        "name": "API Days Amsterdam",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "05/06/2020",
+        "end_date": "05/07/2020",
+        "location": "Amsterdam, Netherlands",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Telecommunication APIs",
+        "Timestamp": "12/02/2019"
     },
     {
         "name": "Austin API Summit",
@@ -46,6 +70,30 @@
         "area": "Europe",
         "Description": "The Microservices, Serverless & Cloud Native Conference",
         "Timestamp": "10/04/2019"
+    },
+    {
+        "name": "APIDays Singapore",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "04/01/2020",
+        "end_date": "04/02/2020",
+        "location": "Singapore, Singapore",
+        "type": "Conference",
+        "area": "Asia",
+        "Description": "Banking APIs, Finance-as-a-Service",
+        "Timestamp": "12/02/2019"
+    },
+    {
+        "name": "APIDays Jakarta",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "03/17/2020",
+        "end_date": "03/17/2020",
+        "location": "Jakarta, India",
+        "type": "Conference",
+        "area": "Asia",
+        "Description": "Building the API Stack",
+        "Timestamp": "12/02/2019"
     },
 	{
         "name": "University API Winter Workshop",
