@@ -107,7 +107,31 @@
         "Description": "Open Space Tech unConference focused on University and Personal API's and thier use in Improving Learning",
         "Timestamp": "12/02/2019"
     },
-	{
+    {
+        "name": "Seattle APIs and Technology",
+        "websiteURL": "https://www.meetup.com/seattle-api/events/264747908/",
+        "twitterURL": "",
+        "start_date": "12/20/2019",
+        "end_date": "12/20/2019",
+        "location": "Seattle, WA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "12/03/2019"
+    },
+    {
+        "name": "The Austin Homegrown API",
+        "websiteURL": "https://www.meetup.com/Austin-Homegrown-API/events/266386592/",
+        "twitterURL": "",
+        "start_date": "12/12/2019",
+        "end_date": "12/12/2019",
+        "location": "Austin, TX",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "12/03/2019"
+    },
+ {
         "name": "API Days - Paris",
         "websiteURL": "https://www.apidays.co/paris",
         "twitterURL": "",
@@ -131,6 +155,18 @@
         "Description": "Visualize Data in Postman",
         "Timestamp": "11/19/2019"
     },
+    {
+        "name": "Internet of Things Detroit",
+        "websiteURL": "https://www.meetup.com/Internet-of-Things-Detroit/events/265956228/",
+        "twitterURL": "",
+        "start_date": "12/10/2019",
+        "end_date": "12/10/2019",
+        "location": "Detroit, MI",
+        "type": "Meetup",
+        "area": "",
+        "description": "Amazon Alexa",
+        "Timestamp": "12/03/2019"
+    },
 	{
         "name": "API Summit",
         "websiteURL": "https://api-summit.de",
@@ -142,6 +178,18 @@
         "area": "Europe",
         "Description": "",
         "Timestamp": "10/04/2019"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/262010802/",
+        "twitterURL": "",
+        "start_date": "12/05/2019",
+        "end_date": "12/05/2019",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Programmable Web's David Berlind, Rob Wilkinson - Oddball.io, Balvinder Singh - Walmart Labs",
+        "Timestamp": "12/03/2019"
     },
     {
         "name": "Nashville API Developers",
