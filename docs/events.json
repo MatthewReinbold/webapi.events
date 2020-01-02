@@ -108,6 +108,54 @@
         "Timestamp": "12/02/2019"
     },
     {
+        "name": "API Addicts",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/267248247/",
+        "twitterURL": "",
+        "start_date": "01/23/2020",
+        "end_date": "01/23/2020",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "01/02/2020"
+    },
+    {
+        "name": "API Documentation Workshop",
+        "websiteURL": "https://www.eventbrite.com/e/api-documentation-workshop-los-angeles-jan-23-2020-tickets-84487066089",
+        "twitterURL": "",
+        "start_date": "01/23/2020",
+        "end_date": "01/23/2020",
+        "location": "Los Angeles, CA",
+        "type": "Workshop",
+        "area": "North America",
+        "Description": "You’ll first learn about API documentation by using a simple weather API to put a weather forecast on your site",
+        "Timestamp": "02/02/2020"
+    },
+    {
+        "name": "APIOps Atlanta",
+        "websiteURL": "https://www.meetup.com/APIOps-Atlanta/events/267458290/",
+        "twitterURL": "",
+        "start_date": "01/16/2020",
+        "end_date": "01/16/2020",
+        "location": "Atlanta, GA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Community-driven 5 in 5 (bring your topic 5 slides, 5 minutes)",
+        "Timestamp": "01/02/2020"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/262600492/",
+        "twitterURL": "",
+        "start_date": "01/07/2020",
+        "end_date": "01/07/2020",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "API 101 and APIs and AI",
+        "Timestamp": "01/02/2020"
+    },
+    {
         "name": "Seattle APIs and Technology",
         "websiteURL": "https://www.meetup.com/seattle-api/events/264747908/",
         "twitterURL": "",
