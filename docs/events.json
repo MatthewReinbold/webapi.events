@@ -95,7 +95,79 @@
         "Description": "Building the API Stack",
         "Timestamp": "12/02/2019"
     },
-	{
+    {
+        "name": "APIOps Atlanta",
+        "websiteURL": "https://www.meetup.com/APIOps-Atlanta/events/267603517/",
+        "twitterURL": "",
+        "start_date": "02/27/2020",
+        "end_date": "02/27/2020",
+        "location": "Atlanta, GA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "01/31/2020"
+    },
+    {
+        "name": "API Craft Singapore",
+        "websiteURL": "https://www.meetup.com/API-Craft-Singapore/events/268079142/",
+        "twitterURL": "",
+        "start_date": "02/26/2020",
+        "end_date": "02/26/2020",
+        "location": "Singapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "description": "DevOps approach to developing, testing, deploying and sustaining APIs. Software AG's Lead Solution Architect, Sury Nagarajan",
+        "Timestamp": "01/31/2020"
+    },
+    {
+        "name": "The Austin Homegrown API",
+        "websiteURL": "https://www.meetup.com/Austin-Homegrown-API/events/267965748/",
+        "twitterURL": "",
+        "start_date": "02/20/2020",
+        "end_date": "02/20/2020",
+        "location": "Austin, TX",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Marc MacLeod, founder and CEO at Stoplight.io.",
+        "Timestamp": "01/31/2020"
+    },
+    {
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/267533724/",
+        "twitterURL": "",
+        "start_date": "02/07/2020",
+        "end_date": "02/07/2020",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europ",
+        "description": "API Owner especializado en APIGEE",
+        "Timestamp": "01/31/2020"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/266950675/",
+        "twitterURL": "",
+        "start_date": "02/06/2020",
+        "end_date": "02/06/2020",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "01/31/2020"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/267722421/",
+        "twitterURL": "",
+        "start_date": "02/04/2020",
+        "end_date": "02/04/2020",
+        "location": "Washington, DC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "David Berlind will deliver Part 2 of his ongoing API 101 series. CapitalOne's Director of Platform Services Matthew Reinbold will give a talk on Why AI Success is Built on APIs",
+        "Timestamp": "01/31/2020"
+    },
+    {
         "name": "University API Winter Workshop",
         "websiteURL": "https://www.eventbrite.com/e/2020-university-api-winter-workshop-tickets-55666562186",
         "twitterURL": "",
