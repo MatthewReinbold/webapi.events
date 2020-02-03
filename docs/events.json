@@ -1,5 +1,17 @@
 [
     {
+        "name": "API the Docs, Cologne-Bonn",
+        "websiteURL": "https://apithedocs.org/cologne-bonn-2020",
+        "twitterURL": "",
+        "start_date": "06/25/2020",
+        "end_date": "06/26/2020",
+        "location": "Cologne, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Documentation",
+        "Timestamp": "02/03/2020"
+    },
+    {
         "name": "API Days Helsinki",
         "websiteURL": "https://apidays.co",
         "twitterURL": "",
@@ -46,6 +58,18 @@
         "area": "North America",
         "Description": "",
         "Timestamp": "09/03/2019"
+    },
+    {
+        "name": "API the Docs, Portland",
+        "websiteURL": "https://apithedocs.org/portland-2020",
+        "twitterURL": "",
+        "start_date": "05/01/2020",
+        "end_date": "05/01/2020",
+        "location": "Portland, OR",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "Documentation",
+        "Timestamp": "02/03/2020"
     },
     {
         "name": "API Conference",
