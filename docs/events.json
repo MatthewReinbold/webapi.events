@@ -120,6 +120,42 @@
         "Timestamp": "12/02/2019"
     },
     {
+        "name": "API Community Belgium",
+        "websiteURL": "https://www.meetup.com/Belgium-API-Community/events/268613776/",
+        "twitterURL": "",
+        "start_date": "03/17/2020",
+        "end_date": "03/17/2020",
+        "location": "Brussels, Belgium",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "02/12/2020"
+    },
+    {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/268507089/",
+        "twitterURL": "",
+        "start_date": "03/05/2020",
+        "end_date": "03/05/2020",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "",
+        "Timestamp": "02/12/2020"
+    },
+    {
+        "name": "DC Web API User Group",
+        "websiteURL": "https://www.meetup.com/DC-Web-API-User-Group/events/268460532/",
+        "twitterURL": "",
+        "start_date": "03/03/2020",
+        "end_date": "03/03/2020",
+        "location": "Washington,DC",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "David Berlind will deliver Part 3 of his API 101 series: How APIs Should Drive Change in Organizational Culture, Walmart Labs Balvinder Singh - Serverless backends using BigParser APIs",
+        "Timestamp": "02/12/2020"
+    },
+    {
         "name": "APIOps Atlanta",
         "websiteURL": "https://www.meetup.com/APIOps-Atlanta/events/267603517/",
         "twitterURL": "",
