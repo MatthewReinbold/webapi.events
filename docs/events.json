@@ -96,6 +96,18 @@
         "Timestamp": "10/04/2019"
     },
     {
+        "name": "Leuven APIs and IPAs",
+        "websiteURL": "https://www.meetup.com/Leuven-APIs-IPAs/events/268602576/",
+        "twitterURL": "",
+        "start_date": "04/02/2020",
+        "end_date": "04/02/2020",
+        "location": "Leuven, Belgium",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "The 10 Commandments for Successful API Programs",
+        "Timestamp": "02/18/2020"
+    },
+    {
         "name": "APIDays Singapore",
         "websiteURL": "https://apidays.co",
         "twitterURL": "",
