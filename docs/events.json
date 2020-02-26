@@ -1,5 +1,17 @@
 [
     {
+        "name": "API World",
+        "websiteURL": "https://apiworld.co/",
+        "twitterURL": "",
+        "start_date": "10/27/2020",
+        "end_date": "10/29/2020",
+        "location": "San Jose, CA",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "organizing the API economy",
+        "Timestamp": "02/26/2020"
+    },
+    {
         "name": "API the Docs, Cologne-Bonn",
         "websiteURL": "https://apithedocs.org/cologne-bonn-2020",
         "twitterURL": "",
