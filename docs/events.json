@@ -96,18 +96,6 @@
         "Timestamp": "10/07/2019"
     },
     {
-        "name": "microxchg 2020",
-        "websiteURL": "http://microxchg.io/2020/index.html",
-        "twitterURL": "",
-        "start_date": "04/02/2020",
-        "end_date": "04/03/2020",
-        "location": "Berlin, Germany",
-        "type": "Conference",
-        "area": "Europe",
-        "Description": "The Microservices, Serverless & Cloud Native Conference",
-        "Timestamp": "10/04/2019"
-    },
-    {
         "name": "Leuven APIs and IPAs",
         "websiteURL": "https://www.meetup.com/Leuven-APIs-IPAs/events/268602576/",
         "twitterURL": "",
