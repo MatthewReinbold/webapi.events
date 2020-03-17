@@ -72,7 +72,7 @@
         "Timestamp": "09/03/2019"
     },
     {
-        "name": "API the Docs, Portland",
+        "name": "API the Docs, Portland (Virtual)",
         "websiteURL": "https://apithedocs.org/portland-2020",
         "twitterURL": "",
         "start_date": "05/01/2020",
@@ -96,18 +96,6 @@
         "Timestamp": "10/07/2019"
     },
     {
-        "name": "Leuven APIs and IPAs",
-        "websiteURL": "https://www.meetup.com/Leuven-APIs-IPAs/events/268602576/",
-        "twitterURL": "",
-        "start_date": "04/02/2020",
-        "end_date": "04/02/2020",
-        "location": "Leuven, Belgium",
-        "type": "Meetup",
-        "area": "Europe",
-        "Description": "The 10 Commandments for Successful API Programs",
-        "Timestamp": "02/18/2020"
-    },
-    {
         "name": "APIDays Singapore",
         "websiteURL": "https://apidays.co",
         "twitterURL": "",
@@ -118,6 +106,18 @@
         "area": "Asia",
         "Description": "Banking APIs, Finance-as-a-Service",
         "Timestamp": "12/02/2019"
+    },
+    {
+        "name": "API Addicts (Virtual)",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/268601581/",
+        "twitterURL": "",
+        "start_date": "03/19/2020",
+        "end_date": "03/19/2020",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "Description": "Cloud Development Masterclass",
+        "Timestamp": "03/17/2020"
     },
     {
         "name": "APIDays Jakarta",
