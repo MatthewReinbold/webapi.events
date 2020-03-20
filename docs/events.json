@@ -12,6 +12,18 @@
         "Timestamp": "02/26/2020"
     },
     {
+        "name": "Gluecon 2020",
+        "websiteURL": "http://gluecon.com/new-dates-for-gluecon-2020/",
+        "twitterURL": "",
+        "start_date": "10/20/2020",
+        "end_date": "10/21/2020",
+        "location": "Denver, CO",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "03/20/2020"
+    },
+    {
         "name": "API the Docs, Cologne-Bonn",
         "websiteURL": "https://apithedocs.org/cologne-bonn-2020",
         "twitterURL": "",
