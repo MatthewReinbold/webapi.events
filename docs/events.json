@@ -72,18 +72,6 @@
         "Timestamp": "12/02/2019"
     },
     {
-        "name": "Austin API Summit",
-        "websiteURL": "https://nordicapis.com/events/austin-api-summit-2020",
-        "twitterURL": "",
-        "start_date": "05/04/2020",
-        "end_date": "05/06/2020",
-        "location": "Austin, TX",
-        "type": "Conference",
-        "area": "North America",
-        "Description": "",
-        "Timestamp": "09/03/2019"
-    },
-    {
         "name": "API the Docs, Portland (Virtual)",
         "websiteURL": "https://apithedocs.org/portland-2020",
         "twitterURL": "",
