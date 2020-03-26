@@ -1,5 +1,17 @@
 [
     {
+        "name": "apidays Paris",
+        "websiteURL": "https://apiworld.co/",
+        "twitterURL": "",
+        "start_date": "12/08/2020",
+        "end_date": "12/10/2020",
+        "location": "Paris, France",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "automated IT",
+        "Timestamp": "03/26/2020"
+    },
+    {
         "name": "API World",
         "websiteURL": "https://apiworld.co/",
         "twitterURL": "",
@@ -10,6 +22,18 @@
         "area": "North America",
         "Description": "organizing the API economy",
         "Timestamp": "02/26/2020"
+    },
+    {
+        "name": "apidays London",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "10/27/2020",
+        "end_date": "10/28/2020",
+        "location": "London, UK",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Open Banking",
+        "Timestamp": "03/26/2020"
     },
     {
         "name": "Gluecon 2020",
@@ -24,6 +48,78 @@
         "Timestamp": "03/20/2020"
     },
     {
+        "name": "apidays Hong Kong",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "10/08/2020",
+        "end_date": "10/08/2020",
+        "location": "Hong Kong, China",
+        "type": "Conference",
+        "area": "Asia",
+        "Description": "finance-as-a-Service and API Ecosystems",
+        "Timestamp": "03/26/2020"
+    },
+    {
+        "name": "apidays Melbourne",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "09/15/2020",
+        "end_date": "09/16/2020",
+        "location": "Melbourne, Australia",
+        "type": "Conference",
+        "area": "Oceania (Australia, New Zealand, Fiji, etc.)",
+        "Description": "Automation",
+        "Timestamp": "03/26/2020"
+    },
+    {
+        "name": "apidays Helsinki (rescheduled)",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "09/01/2020",
+        "end_date": "09/02/2020",
+        "location": "Helsinki, Finland",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "Platforms",
+        "Timestamp": "12/02/2019"
+    },
+    {
+        "name": "apidays Singapore (rescheduled)",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "08/19/2020",
+        "end_date": "08/20/2020",
+        "location": "Singapore, Singapore",
+        "type": "Conference",
+        "area": "Asia",
+        "Description": "Banking APIs, Finance-as-a-Service",
+        "Timestamp": "12/02/2019"
+    },
+    {
+        "name": "API Conference (rescheduled)",
+        "websiteURL": "https://apiconference.net/",
+        "twitterURL": "",
+        "start_date": "08/17/2020",
+        "end_date": "08/19/2020",
+        "location": "The Hague, Netherlands",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "The Conference for Web APIs, API Design and Management",
+        "Timestamp": "10/07/2019"
+    },
+    {
+        "name": "apidays New York",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "07/14/2020",
+        "end_date": "07/15/2020",
+        "location": "New York, NY",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "Banking APIs, Finance-as-a-Service",
+        "Timestamp": "03/26/2020"
+    },
+    {
         "name": "API the Docs, Cologne-Bonn",
         "websiteURL": "https://apithedocs.org/cologne-bonn-2020",
         "twitterURL": "",
@@ -34,18 +130,6 @@
         "area": "Europe",
         "Description": "Documentation",
         "Timestamp": "02/03/2020"
-    },
-    {
-        "name": "API Days Helsinki",
-        "websiteURL": "https://apidays.co",
-        "twitterURL": "",
-        "start_date": "06/02/2020",
-        "end_date": "06/03/2020",
-        "location": "Helsinki, Finland",
-        "type": "Conference",
-        "area": "Europe",
-        "Description": "Platforms",
-        "Timestamp": "12/02/2019"
     },
     {
         "name": "Micro CPH",
@@ -60,18 +144,6 @@
         "Timestamp": "11/19/2019"
     },
     {
-        "name": "API Days Amsterdam",
-        "websiteURL": "https://apidays.co",
-        "twitterURL": "",
-        "start_date": "05/06/2020",
-        "end_date": "05/07/2020",
-        "location": "Amsterdam, Netherlands",
-        "type": "Conference",
-        "area": "Europe",
-        "Description": "Telecommunication APIs",
-        "Timestamp": "12/02/2019"
-    },
-    {
         "name": "API the Docs, Portland (Virtual)",
         "websiteURL": "https://apithedocs.org/portland-2020",
         "twitterURL": "",
@@ -82,30 +154,6 @@
         "area": "North America",
         "Description": "Documentation",
         "Timestamp": "02/03/2020"
-    },
-    {
-        "name": "API Conference",
-        "websiteURL": "https://apiconference.net/",
-        "twitterURL": "",
-        "start_date": "04/20/2020",
-        "end_date": "04/22/2020",
-        "location": "The Hague, Netherlands",
-        "type": "Conference",
-        "area": "Europe",
-        "Description": "The Conference for Web APIs, API Design and Management",
-        "Timestamp": "10/07/2019"
-    },
-    {
-        "name": "APIDays Singapore",
-        "websiteURL": "https://apidays.co",
-        "twitterURL": "",
-        "start_date": "04/01/2020",
-        "end_date": "04/02/2020",
-        "location": "Singapore, Singapore",
-        "type": "Conference",
-        "area": "Asia",
-        "Description": "Banking APIs, Finance-as-a-Service",
-        "Timestamp": "12/02/2019"
     },
     {
         "name": "API Addicts (Virtual)",
@@ -120,7 +168,7 @@
         "Timestamp": "03/17/2020"
     },
     {
-        "name": "APIDays Jakarta",
+        "name": "APIDays Jakarta (postponed)",
         "websiteURL": "https://apidays.co",
         "twitterURL": "",
         "start_date": "03/17/2020",
