@@ -168,6 +168,18 @@
         "Timestamp": "02/03/2020"
     },
     {
+        "name": "AsyncAPI Conference (Virtual)",
+        "websiteURL": "https://www.asyncapiconf.com/",
+        "twitterURL": "",
+        "start_date": "04/22/2020",
+        "end_date": "04/22/2020",
+        "location": "Barcelona, Spain",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "04/02/2020"
+    },
+    {
         "name": "API Addicts (Virtual)",
         "websiteURL": "https://www.meetup.com/ApiAddicts/events/268601581/",
         "twitterURL": "",
