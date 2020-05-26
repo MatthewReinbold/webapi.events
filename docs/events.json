@@ -144,6 +144,66 @@
         "Timestamp": "03/27/2020"
     },
     {
+        "name": "Leuven API's and IPA's",
+        "websiteURL": "https://www.meetup.com/Leuven-APIs-IPAs/events/268602607/",
+        "twitterURL": "",
+        "start_date": "06/04/2020",
+        "end_date": "06/04/2020",
+        "location": "Brussels, Belgium",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "05/26/2020"
+    },
+    {
+        "name": "That API Meetup: REST, Cloud Integrations & SaaS :Sydney, AU",
+        "websiteURL": "https://www.meetup.com/All-Things-API-REST-Cloud-Integrations-SaaS-Sydney-AU/events/270841015/",
+        "twitterURL": "",
+        "start_date": "05/29/2020",
+        "end_date": "05/29/2020",
+        "location":"Sydney, Australia",
+        "type": "Meetup",
+        "area": "Oceania (Australia, New Zealand, Fiji, etc.)",
+        "description": "<p>We've joined forces with our fellow Australian API enthusiasts for a series of virtual Meetups. The first is something that represents a huge opportunity for consumers, startups and enterprise alike - the requirement from February 2020 for the Big Four banks to provide access to consumer data via APIs.</p> <p>Who better to kick off than Eyal Sivan aka Mr Open Banking <a href=\"https://www.mropenbanking.com/\" class=\"linkified\">https://www.mropenbanking.com/</a></p> <p>Followed up by subject matter expert in James Bligh from Data61 <a href=\"https://www.linkedin.com/in/jamesbligh/?originalSubdomain=au\" class=\"linkified\">https://www.linkedin.com/in/jamesbligh/?originalSubdomain=au</a></p> <p>All facilitated by API evangelist, Uli Hitzel to keep the event running smoothly and ensure that there is plenty of opportunity for peer interaction.</p> <p>Date &amp; Time:<br/>- Friday the 29th - 12noon – 1:30pm - A great lunchtime event!</p> <p>How to watch:<br/>- Youtube Live stream<br/>- Zoom</p> <p>To register for this event and the connection details use the Eventbrite link below;</p> <p><a href=\"https://www.eventbrite.com.au/e/apis-across-australia-cdr-vs-open-banking-tickets-105340040898\" class=\"linkified\">https://www.eventbrite.com.au/e/apis-across-australia-cdr-vs-open-banking-tickets-105340040898</a></p>",
+        "Timestamp": "05/26/2020"
+    },
+    {
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/270604037/",
+        "twitterURL": "",
+        "start_date": "05/28/2020",
+        "end_date": "05/28/2020",
+        "location":"Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "API MANAGEMENT",
+        "Timestamp": "05/26/2020"
+    },
+    {
+        "name": "Cologne Microservices User Group (Virtual)",
+        "websiteURL": "https://www.meetup.com/Cologne-Microservices-User-Group/events/270463749/",
+        "twitterURL": "",
+        "start_date": "05/28/2020",
+        "end_date": "05/28/2020",
+        "location": "Cologne, Germany",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Mike Amundsen and Lars Wolff, CEO Stormforger, how to design, build, test and deploy quality web APIs",
+        "Timestamp": "05/26/2020"
+    },
+    {
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/270768000/",
+        "twitterURL": "",
+        "start_date": "05/26/2020",
+        "end_date": "05/26/2020",
+        "location": "Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "API MANAGEMENT",
+        "Timestamp": "05/26/2020"
+    },
+    {
         "name": "Micro CPH",
         "websiteURL": "https://microcph.dk",
         "twitterURL": "",
