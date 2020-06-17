@@ -72,6 +72,18 @@
         "Timestamp": "03/26/2020"
     },
     {
+        "name": "API Specs Conference (ASC) (Digital)",
+        "websiteURL": "https://www.openapis.org/events/2020/06/12/the-api-specifications-conference-asc-2020-hold-the-dates-sept-9th-10th",
+        "twitterURL": "",
+        "start_date": "09/09/2020",
+        "end_date": "09/10/2020",
+        "location": "",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "OpenAPI Specification, gRPC, AsyncAPI, GraphQL, RAML, API Blueprint, OData, JSON Schema",
+        "Timestamp": "06/17/2020"
+    },
+    {
         "name": "apidays Helsinki (rescheduled)",
         "websiteURL": "https://apidays.co",
         "twitterURL": "",
@@ -118,6 +130,18 @@
         "area": "North America",
         "Description": "Banking APIs, Finance-as-a-Service",
         "Timestamp": "03/26/2020"
+    },
+    {
+        "name": "APIDays Interface (Online)",
+        "websiteURL": "https://www.apidays.co/interface",
+        "twitterURL": "",
+        "start_date": "06/30/2020",
+        "end_date": "07/01/2020",
+        "location": "Paris, France",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "APIs as the Interface of the programmable economy",
+        "Timestamp": "06/02/2020"
     },
     {
         "name": "API the Docs, Cologne-Bonn",
