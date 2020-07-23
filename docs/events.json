@@ -48,6 +48,18 @@
         "Timestamp": "03/20/2020"
     },
     {
+        "name": "API Conference",
+        "websiteURL": "https://apiconference.net/",
+        "twitterURL": "",
+        "start_date": "10/12/2020",
+        "end_date": "10/14/2020",
+        "location": "Berlin, Germany",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "07/23/2020"
+    },
+    {
         "name": "apidays Hong Kong",
         "websiteURL": "https://apidays.co",
         "twitterURL": "",
@@ -58,6 +70,18 @@
         "area": "Asia",
         "Description": "finance-as-a-Service and API Ecosystems",
         "Timestamp": "03/26/2020"
+    },
+    {
+        "name": "apidays Jakarta",
+        "websiteURL": "https://apidays.co",
+        "twitterURL": "",
+        "start_date": "09/30/2020",
+        "end_date": "09/30/2020",
+        "location": "Jakarta, Indonesia",
+        "type": "Conference",
+        "area": "Oceania (Australia, New Zealand, Fiji, etc.)",
+        "Description": "Building the API Stack",
+        "Timestamp": "07/23/2020"
     },
     {
         "name": "apidays Melbourne",
@@ -120,16 +144,40 @@
         "Timestamp": "10/07/2019"
     },
     {
+        "name": "Nashville API Developers",
+        "websiteURL": "https://www.meetup.com/NashAPI/events/270854099/",
+        "twitterURL": "",
+        "start_date": "08/05/2020",
+        "end_date": "08/05/2020",
+        "location": "Nashville, TN",
+        "type": "Meetup",
+        "area": "",
+        "description": "",
+        "Timestamp": "07/23/2020"
+    },
+    {
         "name": "apidays New York",
         "websiteURL": "https://apidays.co",
         "twitterURL": "",
-        "start_date": "07/14/2020",
-        "end_date": "07/15/2020",
+        "start_date": "07/28/2020",
+        "end_date": "07/29/2020",
         "location": "New York, NY",
         "type": "Conference",
         "area": "North America",
         "Description": "Banking APIs, Finance-as-a-Service",
         "Timestamp": "03/26/2020"
+    },
+    {
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/271622846/",
+        "twitterURL": "",
+        "start_date": "07/23/2020",
+        "end_date": "07/23/2020",
+        "location":"Madrid, Spain",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "APIs 360, OpenAPI, Marco Antonio Sanz, BBVAApiMarket, CloudAPPi, ",
+        "Timestamp": "07/23/2020"
     },
     {
         "name": "APIDays Interface (Online)",
