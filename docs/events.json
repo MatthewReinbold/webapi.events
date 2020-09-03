@@ -12,6 +12,18 @@
         "Timestamp": "03/26/2020"
     },
     {
+        "name": "Postman Galaxy",
+        "websiteURL": "https://www.postman.com/galaxy-2020/",
+        "twitterURL": "",
+        "start_date": "11/17/2020",
+        "end_date": "11/19/2020",
+        "location": "San Francisco, CA",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "global Postman community",
+        "Timestamp": "09/03/2020"
+    },
+    {
         "name": "API World",
         "websiteURL": "https://apiworld.co/",
         "twitterURL": "",
@@ -106,6 +118,17 @@
         "area": "North America",
         "Description": "OpenAPI Specification, gRPC, AsyncAPI, GraphQL, RAML, API Blueprint, OData, JSON Schema",
         "Timestamp": "06/17/2020"
+    },
+    {
+        "name": "API Community Belgium (virtual)",
+        "websiteURL": "https://www.meetup.com/Belgium-API-Community/events/272672833/",
+        "twitterURL": "",
+        "start_date": "09/08/2020",
+        "end_date": "09/08/2020",
+        "type": "Meetup",
+        "area": "Europe",
+        "description": "Colruyt Group",
+        "Timestamp": "09/03/2020"
     },
     {
         "name": "apidays Helsinki (rescheduled)",
