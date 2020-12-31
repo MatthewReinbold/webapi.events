@@ -72,6 +72,18 @@
         "Timestamp": "12/28/2020"
     },
     {
+        "name": "GlueCon 2021",
+        "websiteURL": "http://gluecon.com/",
+        "twitterURL": "",
+        "start_date": "05/18/2021",
+        "end_date": "05/19/2021",
+        "location": "Broomfield, CO",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "A Developer-Orientated Conference",
+        "Timestamp": "12/31/2020"
+    },
+    {
         "name": "apidays Singapore",
         "websiteURL": "https://www.apidays.co/singapore/",
         "twitterURL": "",
