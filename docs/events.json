@@ -120,6 +120,42 @@
         "Timestamp": "12/28/2020"
     },
     {
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/275700525/",
+        "twitterURL": "",
+        "start_date": "01/28/2021",
+        "end_date": "01/28/2021",
+        "type": "Meetup",
+        "location": "Madrid, Spain",
+        "area": "Europe",
+        "description": "Testing APIs, Marco Antonio Sanz",
+        "Timestamp": "01/19/2021"
+    },
+    {
+        "name": "All Things API - San Francisco",
+        "websiteURL": "https://www.meetup.com/API-Meetup/events/275565172/",
+        "twitterURL": "",
+        "start_date": "01/26/2021",
+        "end_date": "01/26/2021",
+        "location": "San Francisco, CA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "GraphQL, Universal Data Graph, Tyk, Matt Tanner",
+        "Timestamp": "01/19/2021"
+    },
+    {
+        "name": "Microservices, APIs and Integration - Silicon Valley",
+        "websiteURL": "https://www.meetup.com/microservices-apis-integration-meetup/events/275771431/",
+        "twitterURL": "",
+        "start_date": "01/21/2021",
+        "end_date": "01/21/2021",
+        "location": "San Francisco, CA",
+        "type": "Meetup",
+        "area": "North America",
+        "description": "Modern API Specifications Toolbox - By Kin Lane, OpenAPI, JSON Schema, AsyncAPI, TCP, MQTTT",
+        "Timestamp": "01/19/2021"
+    },
+    {
         "name": "apidays Paris",
         "websiteURL": "https://www.apidays.co/paris/",
         "twitterURL": "",
