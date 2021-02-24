@@ -96,6 +96,18 @@
         "Timestamp": "12/28/2020"
     },
     {
+        "name": "μCon: The Microservices eXchange",
+        "websiteURL": "https://skillsmatter.com/conferences/13252-mucon-2021",
+        "twitterURL": "",
+        "start_date": "04/13/2021",
+        "end_date": "04/14/2021",
+        "location": "online",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "microservices",
+        "Timestamp": "02/24/2021"
+    },
+	{
         "name": "apidays Helsinki",
         "websiteURL": "https://www.apidays.co/helsinki/",
         "twitterURL": "",
