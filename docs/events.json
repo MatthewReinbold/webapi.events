@@ -24,6 +24,18 @@
         "Timestamp": "12/28/2020"
     },
     {
+        "name": "ASC 2021 (virtual)",
+        "websiteURL": "https://events.linuxfoundation.org/openapi-asc/",
+        "twitterURL": "",
+        "start_date": "09/28/2021",
+        "end_date": "09/29/2021",
+        "location": "virtual",
+        "type": "Conference",
+        "area": "online",
+        "Description": "",
+        "Timestamp": "04/01/2021"
+    },
+     {
         "name": "apidays Australia",
         "websiteURL": "https://www.apidays.co/australia/",
         "twitterURL": "",
