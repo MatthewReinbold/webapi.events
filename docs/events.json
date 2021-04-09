@@ -11,6 +11,18 @@
         "Description": "APIs for Business, People, and Society",
         "Timestamp": "12/28/2020"
     },
+	{
+        "name": "GlueCon 2021",
+        "websiteURL": "http://gluecon.com/",
+        "twitterURL": "",
+        "start_date": "11/17/2021",
+        "end_date": "11/18/2021",
+        "location": "Broomfield, CO",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "A Developer-Orientated Conference",
+        "Timestamp": "04/09/2021"
+    },
     {
         "name": "apidays London",
         "websiteURL": "https://www.apidays.co/london/",
@@ -133,20 +145,20 @@
         "Description": "",
         "Timestamp": "04/02/2021"
     },
-
 	{
-        "name": "GlueCon 2021",
-        "websiteURL": "http://gluecon.com/",
+        "name": "API Testing Summit 2021",
+        "websiteURL": "https://apisummit21.agiletestingalliance.org/",
         "twitterURL": "",
-        "start_date": "05/18/2021",
-        "end_date": "05/19/2021",
-        "location": "Broomfield, CO",
+        "start_date": "05/08/2021",
+        "end_date": "05/08/2021",
+        "location": "virtual",
         "type": "Conference",
-        "area": "North America",
-        "Description": "A Developer-Orientated Conference",
-        "Timestamp": "12/31/2020"
+        "area": "online",
+        "Description": "early and continuous API testing",
+        "Timestamp": "04/09/2021"
     },
-    {
+
+{
         "name": "API the Docs",
         "websiteURL": "https://www.eventbrite.com/e/api-the-docs-virtual-2021-season-3-tickets-138265358409",
         "twitterURL": "",
