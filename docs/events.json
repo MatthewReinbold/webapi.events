@@ -133,7 +133,7 @@
         "Description": "Web APIs with Java, .NET, and Node.js",
         "Timestamp": "02/25/2021"
     },
-    {
+	{
         "name": "API the Docs",
         "websiteURL": "https://www.eventbrite.com/e/api-the-docs-virtual-2021-season-3-tickets-138265358409",
         "twitterURL": "",
@@ -144,6 +144,18 @@
         "area": "online",
         "Description": "",
         "Timestamp": "04/02/2021"
+    },
+    {
+        "name": "API Community Belgium",
+        "websiteURL": "https://www.meetup.com/Belgium-API-Community/events/277680771/",
+        "twitterURL": "",
+        "start_date": "05/18/2021",
+        "end_date": "05/18/2021",
+        "location": "online",
+        "type": "meetup",
+        "area": "Europe",
+        "Description": "API Security",
+        "Timestamp": "05/06/2021"
     },
 	{
         "name": "API Testing Summit 2021",
