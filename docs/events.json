@@ -109,6 +109,42 @@
         "Timestamp": "12/28/2020"
     },
     {
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/lxvrjsyccjbwb/",
+        "twitterURL": "",
+        "start_date": "06/17/2021",
+        "end_date": "06/17/2021",
+        "type": "Meetup",
+	"location": "Madrid, Spain",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "05/19/2021"
+    },	
+	{
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/lxvrjsyccjbtb/",
+        "twitterURL": "",
+        "start_date": "06/15/2021",
+        "end_date": "06/15/2021",
+        "type": "Meetup",
+	"location": "Madrid, Spain",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "05/19/2021"
+    },
+	{
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/lxvrjsyccjbnb/",
+        "twitterURL": "",
+        "start_date": "06/10/2021",
+        "end_date": "06/10/2021",
+        "type": "Meetup",
+	"location": "Madrid, Spain",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "05/19/2021"
+    },
+	{
         "name": "API the Docs",
         "websiteURL": "https://www.eventbrite.com/e/api-the-docs-virtual-2021-season-3-tickets-138265358409",
         "twitterURL": "",
@@ -120,7 +156,18 @@
         "Description": "",
         "Timestamp": "04/02/2021"
     },
-
+    {
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/lxvrjsyccjblb/",
+        "twitterURL": "",
+        "start_date": "06/08/2021",
+        "end_date": "06/08/2021",
+        "type": "Meetup",
+	"location": "Madrid, Spain",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "05/19/2021"
+    },
 	{
         "name": "API Summit",
         "websiteURL": "https://api-summit.de/",
@@ -132,7 +179,43 @@
         "area": "Europe",
         "Description": "Web APIs with Java, .NET, and Node.js",
         "Timestamp": "02/25/2021"
+    }, 
+    {
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/lxvrjsyccjbfb/",
+        "twitterURL": "",
+        "start_date": "06/03/2021",
+        "end_date": "06/03/2021",
+        "type": "Meetup",
+	"location": "Madrid, Spain",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "05/19/2021"
     },
+	{
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/lxvrjsyccjbcb/",
+        "twitterURL": "",
+        "start_date": "06/01/2021",
+        "end_date": "06/01/2021",
+        "type": "Meetup",
+	"location": "Madrid, Spain",
+        "area": "Europe",
+        "description": "",
+        "Timestamp": "05/19/2021"
+    },
+	{
+        "name": "APIAddicts Madrid",
+        "websiteURL": "https://www.meetup.com/ApiAddicts/events/278235006/",
+        "twitterURL": "",
+        "start_date": "05/20/2021",
+        "end_date": "05/20/2021",
+        "type": "Meetup",
+        "area": "Europe",
+	"location": "Madrid, Spain",
+        "description": "Quan Zhou, Autora, Teresa MarbÃ¡n Castro - Front-end developer, Vincent Van Grondelle - Open Cultural Center, Manager",
+        "Timestamp": "05/19/2021"
+    },	
 	{
         "name": "API the Docs",
         "websiteURL": "https://www.eventbrite.com/e/api-the-docs-virtual-2021-season-3-tickets-138265358409",
