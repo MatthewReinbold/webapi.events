@@ -59,7 +59,20 @@
         "Description": "Building Business Ecosystems",
         "Timestamp": "12/28/2020"
     },
+
     {
+        "name": "APIX 2021",
+        "websiteURL": "https://www.sensedia.com/apix",
+        "twitterURL": "",
+        "start_date": "09/01/2021",
+        "end_date": "09/03/2021",
+        "location": "online",
+        "type": "Conference",
+        "area": "South America",
+        "Description": "",
+        "Timestamp": "08/17/2021"
+    },
+	{
         "name": "apidays Hong Kong",
         "websiteURL": "https://www.apidays.co/hongkong/",
         "twitterURL": "",
