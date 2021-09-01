@@ -48,6 +48,19 @@
         "Timestamp": "04/01/2021"
     },
      {
+        "name": "API Community Belgium",
+        "websiteURL": "https://www.meetup.com/Belgium-API-Community/events/280461621/",
+        "twitterURL": "",
+        "start_date": "09/23/2021",
+        "end_date": "09/23/2021",
+        "location": "online",
+        "type": "meetup",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "09/01/2021"
+    },
+
+	{
         "name": "apidays Australia",
         "websiteURL": "https://www.apidays.co/australia/",
         "twitterURL": "",
@@ -59,7 +72,18 @@
         "Description": "Building Business Ecosystems",
         "Timestamp": "12/28/2020"
     },
-
+    {
+        "name": "Singapore Tyks",
+        "websiteURL": "https://www.meetup.com/Tyk-Users-Singapore/events/280312001/",
+        "twitterURL": "",
+        "start_date": "09/09/2021",
+        "end_date": "09/09/2021",
+        "location": "Sinapore",
+        "type": "Meetup",
+        "area": "Asia",
+        "description": "API management for finanical services",
+        "Timestamp": "09/01/2021"
+    },
     {
         "name": "APIX 2021",
         "websiteURL": "https://www.sensedia.com/apix",
