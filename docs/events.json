@@ -1,5 +1,17 @@
 [
-    {
+	{
+        "name": "GlueCon 2022",
+        "websiteURL": "http://gluecon.com/",
+        "twitterURL": "",
+        "start_date": "05/18/2022",
+        "end_date": "05/19/2022",
+        "location": "Broomfield, CO",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "A Developer-Orientated Conference",
+        "Timestamp": "09/29/2021"
+    },
+{
         "name": "apidays Paris",
         "websiteURL": "https://www.apidays.co/paris/",
         "twitterURL": "",
@@ -10,18 +22,6 @@
         "area": "Europe",
         "Description": "APIs for Business, People, and Society",
         "Timestamp": "12/28/2020"
-    },
-	{
-        "name": "GlueCon 2021",
-        "websiteURL": "http://gluecon.com/",
-        "twitterURL": "",
-        "start_date": "11/17/2021",
-        "end_date": "11/18/2021",
-        "location": "Broomfield, CO",
-        "type": "Conference",
-        "area": "North America",
-        "Description": "A Developer-Orientated Conference",
-        "Timestamp": "04/09/2021"
     },
     {
         "name": "apidays London",
