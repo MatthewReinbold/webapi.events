@@ -24,6 +24,56 @@
         "Timestamp": "12/28/2020"
     },
     {
+        "name": "Integrating with 3rd Party APIs with Steve McDougall (PHP)",
+        "websiteURL": "https://www.meetup.com/_GPUG_/events/281317498",
+        "twitterURL": "",
+        "start_date": "11/25/2021",
+        "end_date": "11/25/2021",
+        "location": "virtual",
+        "type": "meetup",
+        "area": "North America",
+        "Description": "GPUG PHP User Group",
+        "Timestamp": "10/27/2021"
+    },
+    {
+        "name": "Integrating APIs In Your Apps",
+        "websiteURL": "https://www.meetup.com/Code-Koalas-Workshop-Wednesday/events/276152443",
+        "twitterURL": "",
+        "start_date": "11/17/2021",
+        "end_date": "11/17/2021",
+        "location": "virtual",
+        "type": "meetup",
+        "area": "North America",
+        "Description": "Code Koalas Workshop Wednesday",
+        "Timestamp": "10/27/2021"
+    },
+	
+	{
+        "name": "How to Answer API Questions in the PM Interview",
+        "websiteURL": "https://www.meetup.com/Product-Management-Interview-Club/events/281291955",
+        "twitterURL": "",
+        "start_date": "11/02/2021",
+        "end_date": "11/02/2021",
+        "location": "New York, NY",
+        "type": "meetup",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "10/27/2021"
+    },
+    {
+        "name": "Reviewing AWS API Activity using CloudWatch Dashboards",
+        "websiteURL": "https://www.meetup.com/huntsvilleaws/events/281601077",
+        "twitterURL": "",
+        "start_date": "10/28/2021",
+        "end_date": "10/28/2021",
+        "location": "virutal",
+        "type": "meetup",
+        "area": "North America",
+        "Description": "Huntsville AWS Meetup",
+        "Timestamp": "10/27/2021"
+    },
+
+	{
         "name": "apidays London",
         "websiteURL": "https://www.apidays.global/london/",
         "twitterURL": "",
