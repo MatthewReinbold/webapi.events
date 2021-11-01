@@ -11,7 +11,20 @@
         "Description": "A Developer-Orientated Conference",
         "Timestamp": "09/29/2021"
     },
-{
+	{
+        "name": "API Conference",
+        "websiteURL": "https://apiconference.net/thehague/",
+        "twitterURL": "",
+        "start_date": "04/04/2022",
+        "end_date": "04/06/2022",
+        "location": "Hague, Netherlands",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "11/01/2021"
+    },
+
+	{
         "name": "apidays Paris",
         "websiteURL": "https://www.apidays.global/paris/",
         "twitterURL": "",
