@@ -24,6 +24,19 @@
         "Timestamp": "11/01/2021"
     },
 	{
+        "name": "How to Spin Up a Mock API in Minutes",
+        "websiteURL": "https://www.meetup.com/Kansas-City-React-Meetup/events/282697538",
+        "twitterURL": "",
+        "start_date": "01/26/2022",
+        "end_date": "01/26/2022",
+        "location": "online (Kansas City React Meetup)",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "12/28/2021"
+    },
+
+	{
         "name": "Future of API Management",
         "websiteURL": "https://groupfuturista.com/FOAPI2022",
         "twitterURL": "",
@@ -35,6 +48,19 @@
         "Description": "",
         "Timestamp": "12/28/2021"
     },
+	{
+        "name": "TypeScript and GraphQL with Aaron Powell",
+        "websiteURL": "https://www.meetup.com/Microsoft-Reactor-New-York/events/282433832",
+        "twitterURL": "",
+        "start_date": "01/12/2022",
+        "end_date": "01/12/2022",
+        "location": "New York, NY",
+        "type": "Meetup",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "12/28/2021"
+    },
+
 	{
         "name": "apidays Paris",
         "websiteURL": "https://www.apidays.global/paris/",
