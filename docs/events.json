@@ -12,6 +12,18 @@
         "Timestamp": "01/23/2022"
     },
 	{
+        "name": "QCon Plus",
+        "websiteURL": "https://plus.qconferences.com/",
+        "twitterURL": "",
+        "start_date": "11/29/2022",
+        "end_date": "12/09/2022",
+        "location": "online",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "02/02/2022"
+    },	
+	{
         "name": "London APIDays",
         "websiteURL": "https://www.apidays.global/london/",
         "twitterURL": "",
@@ -23,6 +35,18 @@
         "Description": "Reaching Maximum Potential in Banking & Insurance with API Mindset",
         "Timestamp": "01/23/2022"
     },
+	{
+        "name": "QCon San Francisco",
+        "websiteURL": "https://qconsf.com/",
+        "twitterURL": "",
+        "start_date": "10/24/2022",
+        "end_date": "10/28/2022",
+        "location": "San Francisco, CA",
+        "type": "Conference",
+        "area": "North America",
+        "Description": "",
+        "Timestamp": "02/02/2022"
+    },	
 	{
         "name": "Australia APIDays",
         "websiteURL": "https://www.apidays.global/australia/",
@@ -96,6 +120,18 @@
         "Timestamp": "01/23/2022"
     },
 	{
+        "name": "QCon Plus",
+        "websiteURL": "https://plus.qconferences.com/",
+        "twitterURL": "",
+        "start_date": "05/10/2022",
+        "end_date": "05/20/2022",
+        "location": "online",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "02/02/2022"
+    },	
+	{
         "name": "Singapore APIDays",
         "websiteURL": "https://www.apidays.global/singapore/",
         "twitterURL": "",
@@ -119,6 +155,18 @@
         "Description": "",
         "Timestamp": "01/23/2022"
     },
+	{
+        "name": "QCon London",
+        "websiteURL": "https://qconlondon.com/",
+        "twitterURL": "",
+        "start_date": "04/04/2022",
+        "end_date": "04/06/2022",
+        "location": "London, UK",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "02/02/2022"
+    },	
 	{
         "name": "API Conference",
         "websiteURL": "https://apiconference.net/thehague/",
