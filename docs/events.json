@@ -16,7 +16,8 @@
         "websiteURL": "https://plus.qconferences.com/",
         "twitterURL": "",
         "start_date": "11/29/2022",
-        "end_date": "12/09/2022",
+        "end_date": "12/09/2022",pidays.global/london/",
+        "twitterURL": "",
         "location": "online",
         "type": "Conference",
         "area": "North America",
@@ -25,8 +26,7 @@
     },	
 	{
         "name": "London APIDays",
-        "websiteURL": "https://www.apidays.global/london/",
-        "twitterURL": "",
+        "websiteURL": "https://www.a
         "start_date": "10/26/2022",
         "end_date": "10/27/2022",
         "location": "Hybrid",
@@ -46,6 +46,18 @@
         "area": "North America",
         "Description": "",
         "Timestamp": "02/02/2022"
+    },	
+	{
+        "name": "API Conference 2022",
+        "websiteURL": "https://apiconference.net/berlin/",
+        "twitterURL": "",
+        "start_date": "10/17/2022",
+        "end_date": "10/19/2022",
+        "location": "Hybrid - Berlin, Ger",
+        "type": "Conference",
+        "area": "Europe",
+        "Description": "",
+        "Timestamp": "05/10/2022"
     },	
 	{
         "name": "ASC 2022",
