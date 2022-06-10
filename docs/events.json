@@ -107,6 +107,19 @@
         "Description": "API-driven Regulations for Finance, Insurance, and Healthcare",
         "Timestamp": "01/23/2022"
     },
+
+	{
+        "name": "APIX - Brazil",
+        "websiteURL": "https://www.sensedia.com/apix",
+        "twitterURL": "",
+        "start_date": "06/29/2022",
+        "end_date": "06/30/2022",
+        "location": "hybrid",
+        "type": "Conference",
+        "area": "South America",
+        "Description": ".",
+        "Timestamp": "06/10/2022"
+    },
 	{
         "name": "Deliberate Complexity 2022 – Building Successful Platforms and APIs (late-June)",
         "websiteURL": "https://www.eventbrite.com/e/deliberate-complexity-2022-building-successful-platforms-and-apis-tickets-310487114317",
