@@ -17,7 +17,6 @@
         "twitterURL": "",
         "start_date": "11/29/2022",
         "end_date": "12/09/2022",
-        "twitterURL": "",
         "location": "online",
         "type": "Conference",
         "area": "North America",
@@ -27,7 +26,8 @@
 	{
         "name": "London APIDays",
         "websiteURL": "https://www.apidays.global/london/",
-        "start_date": "10/26/2022",
+        "twitterURL": "",
+	"start_date": "10/26/2022",
         "end_date": "10/27/2022",
         "location": "Hybrid",
         "type": "Conference",
